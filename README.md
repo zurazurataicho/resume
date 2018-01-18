@@ -8,11 +8,12 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |Name|EZURA, Atsushi|
-|GitHub|[]()|
-|LinkedIn|[]()|
-|Facebook|[]()|
-|Twitter|[]()|
-|Instagram|[]()|
+|E-mail|zura@zura.org|
+|GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
+|LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/)|
+|Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
+|Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
+|Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
 
 ## 経験・分野
 - LAMP環境でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
