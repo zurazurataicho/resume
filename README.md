@@ -11,6 +11,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |Blog|[Atsushi Ezura](http://photographer.zura.org/)|
 |GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
 |LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/)|
+|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
 |Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
@@ -43,7 +44,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |項目|内容|
 |---:|:---|
-|言語|C++、Java、Go、Swift、C#、Python、Ruby、Scala (一部業務での使用経験有り)|
+|言語|C++、Java、Go、Swift、C#、Python、Ruby、Scala (いずれかの言語を一部業務での使用経験有り)|
 |インフラ|Ansible、Docker、Vagrant (利用の経験は有り)|
 
 ## 会社略歴(ゲーム関連)
@@ -67,6 +68,21 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 - 従業員数：8名
 
 #### 業務内容
+
+##### 2018年1月〜
+
+|項目|内容|
+|---:|:---|
+|業務|ゲームセンター筐体アプリ用API開発|
+|担当|アイドル系ゲームの新規機能(API)作成・CSツール改修|
+|OS|CentOS|
+|クラウド|NiftyCloud|
+|詳細|既存APIへの追加実装、管理画面実装|
+|フレームワーク|FuelPHP|
+|DB|MySQL5.6、Redis|
+|言語|PHP、SQL、SQL|
+|VCS|Subversion|
+|職位|エンジニア(サーバエンジニア2名)|
 
 ##### 2017年7月〜2017年12月
 - ただし2017年9〜10月を除く
