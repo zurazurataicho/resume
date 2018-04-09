@@ -10,7 +10,8 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |Name|EZURA, Atsushi|
 |Blog|[Atsushi Ezura](http://photographer.zura.org/)|
 |GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
-|LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/)|
+|Gist|[zurazurataicho](https://gist.github.com/zurazurataicho)|
+|LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/) (English)|
 |Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
 |Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
