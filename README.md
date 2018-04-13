@@ -147,7 +147,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
 |フレームワーク|Amfphp、CakePHP2、FulePHP|
 |DB|MariaDB、MySQL5、Redis、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery)、C#(Unity5一部実装)、SQL|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C#(Unity5一部実装)、SQL|
 |VCS|Git(Bitbucket、SourceTree)|
 |管理|Redmine|
 |職位|サーバチームリーダ(チーム13名、サーバエンジニア2名)|
@@ -162,7 +162,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|DB・APIの新規設計と実装、クライアント実装|
 |フレームワーク|CakePHP3|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery)、C++(Cocos2d-x)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C++(Cocos2d-x)|
 |職位|エンジニア|
 
 ##### 2015年6月〜2015年12月
@@ -173,7 +173,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|新規タイトルのスマホゲームのUI開発|
 |ゲームエンジン|Cocos2d-x|
 |詳細|アウトゲーム開発|
-|言語|JacaScript|
+|言語|JavaScript|
 |VCS|Git(GitHub、SourceTree)|
 |管理|JIRA|
 |開発手法|Pull Request|
@@ -189,7 +189,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
 |フレームワーク|Ethna|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript|
 |VCS|Subversion|
 |管理|Redmine、Googleスプレッドシート|
 |職位|エンジニア|
@@ -240,7 +240,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存実装改修、API実装、管理画面実装、メール一斉配信システム開発、イメージサーバ開発、KPI分析等(SQL)、CSツール開発・改修、VPNサーバ開発|
 |フレームワーク|CakePHP2|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery, DataTables, jQueryUI, jstree)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery, DataTables, jQueryUI, jstree)|
 |VCS|Git(GitHub)|
 |職位|エンジニア|
 
@@ -255,7 +255,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|Facebookアプリ(フィーチャーフォンゲームのティザー)開発・公式サイトおよび関連インフラ構築|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |職位|エンジニア|
 
 ### 株式会社ファンネル
@@ -276,7 +276,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|ゲーム公式サイト開発、ユーザ管理DB設計、CSツール開発、メール一斉配信システム開発、ポータルサイトとのチャネリング(Realworld、aima)|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |職位|エンジニア|
 
 ### 6waves株式会社
@@ -296,7 +296,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|ゲーム公式サイト開発、ユーザ管理DB設計、CSツール開発、メール一斉配信システム開発、ポータルサイトとのチャネリング(Realworld、aima)|
 |フレームワーク|Symfony、CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JacaScript(jQuery)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |職位|エンジニア|
 
 ### ルーク・エンターテイメント株式会社
