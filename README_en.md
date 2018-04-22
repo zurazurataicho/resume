@@ -95,6 +95,7 @@ Team Leading skills, communication skills.
 - Develop a Facebook Apps.
 - Quit the company because of discontinuance of business.
 
+- - -
 #### funnel Inc.
 ##### Company
 - Jun.2012 - Dec.2012
@@ -107,6 +108,7 @@ Team Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - Quit the company because of discontinuance of the game devision.
 
+- - -
 #### 6waves K.K.
 ##### Company
 - May.2012
@@ -117,6 +119,7 @@ Team Leading skills, communication skills.
 - Develop web and web(browser) game applications with open social API.
 - Also develop web-based customer support and game management sites.
 
+- - -
 #### We Are Engineering Inc.
 ##### Company
 - Dec.2011 - Apr.2012
@@ -127,6 +130,7 @@ Team Leading skills, communication skills.
 - Develop a STUN(Simple Traversal of UDP through NATs/UDP hole punching) application on iOS/iPhone.
 - Maintain and analysis log of Android OS updating system for Kyocera.
 
+- - -
 #### Rook Digital Entertainment Inc.
 ##### Company
 - Jul.2011 - Nov.2011
@@ -141,6 +145,7 @@ Team Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - Quit the company because of discontinuance of business.
 
+- - -
 #### Meisei University
 ##### Company
 - Apr.1996 - Jul.2011
@@ -155,6 +160,7 @@ Team Leading skills, communication skills.
 - Teach students information literacy.
 - Write some books and articles about network servers (sendmail, DHCP) running on UNIX and computer security.
 
+- - -
 #### Daiichi Kikaku Sekkei Inc.
 ##### Company
 - Apr.1993 - Mar.1996
