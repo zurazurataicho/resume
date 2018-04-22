@@ -53,16 +53,12 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |DevOps|Ansible, Docker, Vagrant|
 |Etc.|Design patterns, readable codes, better programmer, clean code, TDD, DDD, Algorithms, computer science|
 
-#### Languages
-C/C++, Java, PHP, Perl, JavaScript, TypeScript, Shell Scripting, SQL, HTML, CSS, Assemblers (Z80, 8086, 80286/V30 68000, 6809/6903)
-
-#### Servers
-Apache, Samba, sendmail, Postfix, BIND, ISC-DHCP, OpenLDAP, OpenVPN, wuftpd, NATs, Firewalls and so on.
-
 #### Certifications
-- Cisco Certified Network Associate (CCNA), Sep. 2007
-- Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS), Nov. 2008
-- Fundamental Information Technology Engineer Examination, Nov. 1991
+|Content|Obtain|
+|:---|:------|
+|Cisco Certified Network Associate (CCNA)|Sep. 2007|
+|Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
+|Fundamental Information Technology Engineer Examination|Nov. 1991|
 
 #### Generic Skills
 Widely experiences and knowledge within IT category. For instance, programming, building infrastructures and designing database schemas.
