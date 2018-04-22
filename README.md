@@ -33,7 +33,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |言語|アセンブラ(8086/6903/68000)、C、Java、QuickBASIC、PHP(CakePHP等)、Perl、JavaScript(jQuery)、TypeScript、SQL、シェルスクリプト(sh/bash/csh/tcsh)、HTML、CSS、TeX/LaTex|
-|OS|CentOS(Linux)、FreeBSD、Windows Server、Soralis|
+|OS|CentOS(Linux)、FreeBSD、Windows Server、Solaris|
 |サーバ|Apache、nginx、Node.js、sendmail、postfix、OpenSSH、BIND、ISC-DHCP、OpenLDAP、ftpサーバ他|
 |DB|MySQL、PostsgreSQL、memcached、Redis|
 |インフラ|Cisoc IOS|
@@ -470,30 +470,30 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |期間|内容|
 |:---|:---|
-|2005〜2009年|文系・芸術系学生への情報・セキュリティに関する基礎教育(科目名「情報リテラシー」)|
+|2005〜2009年|文系・芸術系学生へのITに関する基礎講義(講義名「[情報リテラシーa・b](https://www.meisei-u.ac.jp/academics/common/)」)の非常勤講師(兼務)|
 |2006〜2008年|CCNA取得講座講師(学生向け)|
-|1996〜2000年|青梅市主催市民講座にてパソコン・ネットワーク講座の講師・授業サポート|
-|1996〜1997年|明星大学通信教育部夏期スクーリングにおけるオフィスソフト等の講師・授業サポート|
+|1996〜2000年|青梅市主催の市民講座にてパソコン・ネットワーク講座の講師・授業サポート|
+|1996〜1997年|[明星大学通信教育部](https://www.meisei-u.ac.jp/dce/)夏期スクーリングにおけるオフィスソフト等の講師・授業サポート|
 
 #### 執筆
 
 |初版|タイトル|ISBN|
 |:---|:-------|:---|
-|2003年12月|「改訂版sendmail－メールサーバの設定・運用・管理」|ISBN4-924998-672|
-|2003年3月|「DHCP－ホスト設定サーバの設定・運用・管理」|ISBN4-924998-613|
-|2001年9月|「Sylpheed快適操作ガイド」|ISBN4-924998-524|
-|2001年2月|「sendmail－メールサーバの設定・運用・管理」|ISBN4-924998-435|
+|2003年12月|「[改訂版sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-672|
+|2003年3月|「[DHCP－ホスト設定サーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998613/)」|ISBN4-924998-613|
+|2001年9月|「[Sylpheed快適操作ガイド](https://www.amazon.co.jp/dp/4924998524/)」|ISBN4-924998-524|
+|2001年2月|「[sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-435|
 |2000年9月|社団法人パーソナルコンピュータユーザ利用技術協会「パソコンリテラシ2000年9月号」||
-|2000年4月|「ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95」|ISBN4-924998-346|
+|2000年4月|「[ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95](https://www.amazon.co.jp/dp/4924998346/)」|ISBN4-924998-346|
 
 #### 資格等
 
 |取得年月|内容|成績|
 |:-------|:---|:---|
 |2008年11月|TOEIC|スコア555|
-|2007年8月|CCNA (Cisco Certificated Network Assistance)|合格|
+|2007年8月|[CCNA](https://ja.wikipedia.org/wiki/Cisco_Certified_Network_Associate) (Cisco Certified Network Associate)|合格|
 |1996年2月|無線従事者免許 第四級アマチュア無線技士|合格|
-|1991年11月|通産省第2種情報処理技術者資格試験|合格|
+|1991年11月|[第二種情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/s44_h6har/old_k2_1.html)|合格|
 
 #### 語学
 
