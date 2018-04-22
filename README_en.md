@@ -68,7 +68,7 @@ Team Leading skills, communication skills.
 
 ### Work Experience
 #### apricotton Co Ltd.
-##### Corporation
+##### Company
 - Sep.2013 - Present
 - Ueno, Tokyo
 - Manager, web application developer, game API developer, network administrator
@@ -82,7 +82,7 @@ Team Leading skills, communication skills.
 - [Techs] C/C++, C#, Java8, PHP5/7(CakePHP3, FuelPHP, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity, RoboVM
 
 #### Reliance Big Entertainment Japan Co, Ltd.
-##### Corporation
+##### Company
 - Jan.2013 - Aug.2013
 - Shinjuku, Tokyo
 - Leader, web game and application developer, network administrator
@@ -95,7 +95,7 @@ Team Leading skills, communication skills.
 - Quit the company because of discontinuance of business.
 
 #### funnel Inc.
-##### Corporation
+##### Company
 - Jun.2012 - Dec.2012
 - Yoyogi, Tokyo
 - Web game and application developer
@@ -107,7 +107,7 @@ Team Leading skills, communication skills.
 - Quit the company because of discontinuance of the game devision.
 
 #### 6waves K.K.
-##### Corporation
+##### Company
 - May.2012
 - Roppongi, Tokyo
 - Web game and application developer
@@ -117,7 +117,7 @@ Team Leading skills, communication skills.
 - Also develop web-based customer support and game management sites.
 
 #### We Are Engineering Inc.
-##### Corporation
+##### Company
 - Dec.2011 - Apr.2012
 - Nakamozu, Osaka and Yokohama, Kanagawa
 - iOS application developer, system administrator
@@ -127,7 +127,7 @@ Team Leading skills, communication skills.
 - Maintain and analysis log of Android OS updating system for Kyocera.
 
 #### Rook Digital Entertainment Inc.
-##### Corporation
+##### Company
 - Jul.2011 - Nov.2011
 - Sotokanda, Tokyo
 - Web game and application developer
@@ -141,7 +141,7 @@ Team Leading skills, communication skills.
 - Quit the company because of discontinuance of business.
 
 #### Meisei University
-##### Corporation
+##### Company
 - Apr.1996 - Jul.2011
 - Ome/Hino, Tokyo
 - Chief network administrator, web developer, teacher
@@ -154,7 +154,7 @@ Team Leading skills, communication skills.
 - Teach students information literacy.
 - Write some books and articles about network servers (sendmail, DHCP) running on UNIX and computer security.
 
-##### Corporation
+##### Company
 #### Daiichi Kikaku Sekkei Inc.
 - Apr.1993 - Mar.1996
 - Tachikawa, Tokyo,
