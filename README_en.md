@@ -54,7 +54,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Etc.|Design patterns, readable codes, better programmer, clean code, TDD, DDD, Algorithms, computer science|
 
 #### Certifications
-|Content|Obtain|
+|Content|Passed|
 |:---|:------|
 |Cisco Certified Network Associate (CCNA)|Sep. 2007|
 |Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
