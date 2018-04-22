@@ -154,8 +154,8 @@ Team Leading skills, communication skills.
 - Teach students information literacy.
 - Write some books and articles about network servers (sendmail, DHCP) running on UNIX and computer security.
 
-##### Company
 #### Daiichi Kikaku Sekkei Inc.
+##### Company
 - Apr.1993 - Mar.1996
 - Tachikawa, Tokyo,
 - Embedded system developer, programmer
