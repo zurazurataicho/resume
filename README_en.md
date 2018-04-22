@@ -56,8 +56,8 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 #### Certifications
 |Content|Passed|
 |:---|:------|
-|Cisco Certified Network Associate (CCNA)|Sep. 2007|
 |Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
+|Cisco Certified Network Associate (CCNA)|Sep. 2007|
 |Fundamental Information Technology Engineer Examination|Nov. 1991|
 
 #### Generic Skills
