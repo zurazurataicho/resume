@@ -37,6 +37,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |サーバ|Apache、nginx、Node.js、sendmail、postfix、OpenSSH、BIND、ISC-DHCP、OpenLDAP、ftpサーバ他|
 |DB|MySQL、PostsgreSQL、memcached、Redis|
 |インフラ|Cisoc IOS|
+|DevOps|Ansible、Docker、Vagrant (利用経験)|
 |クラウド|Amazon AWS|
 |運用業務|サーバ・インフラ構築運用管理|
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発(Cocos2d-js)|
@@ -46,7 +47,8 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |言語|C++、Go、Swift、C#、Python、Ruby、Scala (いずれかの言語は一部業務経験有り)|
-|インフラ|Ansible、Docker、Vagrant (いずれも利用の経験有り)|
+|DevOps|Ansible、Docker、Vagrant|
+|その他|デザインパターン、リーダブルコード、ベタープログラマー、クリーンコード、TDD、DDD、アルゴリズム、コンピュータサイエンス|
 
 ## 会社略歴
 
