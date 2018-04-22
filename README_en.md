@@ -81,6 +81,7 @@ Team Leading skills, communication skills.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
 - [Techs] C/C++, C#, Java8, PHP5/7(CakePHP3, FuelPHP, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity, RoboVM
 
+- - -
 #### Reliance Big Entertainment Japan Co, Ltd.
 ##### Company
 - Jan.2013 - Aug.2013
