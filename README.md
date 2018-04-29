@@ -19,7 +19,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 ## 経験・分野
 - LAMP環境でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
-- スマートフォンアプリ・ブラウザゲームのサーバシステム設計・開発(PHP系フレームワーク)
+- スマートフォンアプリAPIサーバ・ブラウザゲームサーバシステム設計・開発
 - Cocos2d-JSでのアウトゲーム(UI)開発(JavaScript)
 - インフラ(Cisco)およびUNIX系サーバ(FreeBSD/Linux等)構築・運用・管理
 - 学内システム更新・移行等でのPL経験(進捗管理、業者折衝等)、主任として後輩育成・指導の従事
@@ -32,23 +32,23 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |項目|内容|
 |---:|:---|
-|言語|アセンブラ(8086/6903/68000)、C、Java、QuickBASIC、PHP(CakePHP等)、Perl、JavaScript(jQuery)、TypeScript、SQL、シェルスクリプト(sh/bash/csh/tcsh)、HTML、CSS、TeX/LaTex|
-|OS|CentOS(Linux)、FreeBSD、Windows Server、Solaris|
-|サーバ|Apache、nginx、Node.js、sendmail、postfix、OpenSSH、BIND、ISC-DHCP、OpenLDAP、ftpサーバ他|
-|DB|MySQL、PostsgreSQL、memcached、Redis|
-|インフラ|Cisoc IOS|
-|DevOps|Ansible、Docker、Vagrant (利用経験)|
-|クラウド|Amazon AWS|
+|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000)、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[Java](https://java.com/ja/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)|
+|サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
+|DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
+|インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/) (利用経験)|
+|クラウド|[Amazon AWS](https://aws.amazon.com/jp/)|
 |運用業務|サーバ・インフラ構築運用管理|
-|開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発(Cocos2d-js)|
+|開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 
 ### 独学・趣味
 
 |項目|内容|
 |---:|:---|
-|言語|C++、Go、Swift、C#、Python、Ruby、Scala (いずれかの言語は一部業務経験有り)|
+|言語|[C++](https://isocpp.org/)、[Go](https://golang.org/)、[Swift](https://swift.org/)、[C#](https://docs.microsoft.com/ja-jp/dotnet/csharp/)、[Python](https://www.python.org/)、[Ruby](https://www.ruby-lang.org/ja/)、[Scala](https://www.scala-lang.org/) (いずれかの言語は一部業務経験有り)|
 |DevOps|Ansible、Docker、Vagrant|
-|その他|デザインパターン、リーダブルコード、ベタープログラマー、クリーンコード、TDD、DDD、アルゴリズム、コンピュータサイエンス|
+|その他|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、アルゴリズム、コンピュータサイエンス|
 
 ## 会社略歴
 
@@ -59,7 +59,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |2012年6月〜2012年12月|ゲーム開発|[株式会社ファンネル](http://funnel.co.jp/)|
 |2012年5月|ゲーム開発|6waves株式会社|
 |2011年12月〜2012年4月|システム開発|[ウィアー・エンジニアリング株式会社](http://www.wae.jp/)|
-|2011年7月〜2011年11月|ゲーム開発|ルークデジタルエンターテインメント株式会社|
+|2011年7月〜2011年11月|ゲーム開発|ルークデジタルエンターテイメント株式会社|
 |1996年4月〜2011年7月|教育機関|[明星大学](https://www.meisei-u.ac.jp/)(学校法人明星学苑)|
 |1993年4月〜1996年3月|技術派遣|[第一企画設計株式会社](http://www.dik-web.co.jp/)|
 
@@ -83,7 +83,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存APIへの追加実装、管理画面実装|
 |フレームワーク|FuelPHP|
 |DB|MySQL5.6、Redis|
-|言語|PHP、SQL、SQL|
+|言語|PHP、SQL|
 |VCS|Subversion|
 |職位|エンジニア(サーバエンジニア2名)|
 
@@ -224,7 +224,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |言語|PHP、SQL|
 |職位|エンジニア|
 
-### リライアンス・ビッグ・エンターテイメント・ジャパン
+### リライアンス・ビッグ・エンターテインメント・ジャパン株式会社
 - 2013年1月〜2013年9月
 - 事業内容：海外ゲームコンテンツのローカライズ、国内向け改修・展開、Facebookアプリ・ゲーム開発
 - 従業員数：6名
@@ -301,7 +301,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |職位|エンジニア|
 
-### ルーク・デジタル・エンターテインメント株式会社
+### ルーク・デジタル・エンターテイメント株式会社
 - 2011年7月〜2011年11月
 - 事業内容：海外(中国)ブラウザゲームのローカライズ・国内展開
 - 従業員数：約20名
