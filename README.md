@@ -494,7 +494,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |取得年月|内容|成績|
 |:-------|:---|:---|
-|2008年11月|TOEIC|スコア555|
+|2008年11月|[TOEIC](http://www.iibc-global.org/toeic.html) (Test of English for International Communication)|スコア555|
 |2007年8月|[CCNA](https://ja.wikipedia.org/wiki/Cisco_Certified_Network_Associate) (Cisco Certified Network Associate)|合格|
 |1996年2月|無線従事者免許 第四級アマチュア無線技士|合格|
 |1991年11月|[第二種情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/s44_h6har/old_k2_1.html)|合格|
