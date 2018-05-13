@@ -2,7 +2,9 @@
 You can see my resume in English [here](https://github.com/zurazurataicho/resume/blob/master/README_en.md).
 
 ## 概要
-Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ設計・運用に従事。オンプレミスでのネットワーク・サーバ構築や管理ツール・ウェブシステムの開発など長期に渡り幅広く経験。その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、AWSでのインフラ構築、運用管理、CSツールやAPI開発に従事、現在に至る。
+CやBASICでモニタリングソフトなどを開発、アセンブラで組込ソフトウェアの開発経験などを経て、私立大学の情報インフラ設計・運用に従事。
+オンプレミスでのネットワーク・サーバ構築や管理ツール・ウェブシステムの開発、システムサポート、教育業務(大学講義)など長期に渡り幅広く経験。
+その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、AWSでのインフラ構築、運用管理、CSツールやAPI開発に従事、現在に至る。
 
 ## 基本情報
 
@@ -19,7 +21,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
 
 ## 経験・分野
-- LAMP環境でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
+- LAMP環境(クラウド・オンプレ)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
 - スマートフォンアプリAPIサーバ・ブラウザゲームサーバシステム設計・開発
 - Cocos2d-JSでのアウトゲーム(UI)開発(JavaScript)
 - インフラ(Cisco)およびUNIX系サーバ(FreeBSD/Linux等)構築・運用・管理
@@ -33,7 +35,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |項目|内容|
 |---:|:---|
-|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[Java](https://java.com/ja/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
 |OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)|
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
@@ -44,6 +46,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 
 ### 独学・趣味
+- IT関連スキルは基本的に独学にて習得し、実践で活用・応用をしている。
 
 |項目|内容|
 |---:|:---|
@@ -78,10 +81,10 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |業務|ゲームセンター筐体アプリ用API開発(出向)|
-|担当|アイドル系ゲームの新規機能(API)作成・CSツール改修|
+|担当|アイドル系ゲームの新規実装(API)・管理ツール改修|
 |OS|CentOS|
 |クラウド|NiftyCloud|
-|詳細|既存APIへの追加実装、管理画面実装|
+|詳細|既存システムへの新規API追加実装、管理ツールの新規API対応実装|
 |フレームワーク|FuelPHP|
 |DB|MySQL5.6、Redis|
 |言語|PHP、SQL|
@@ -100,7 +103,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存実装改修、API改修、WebSocketによる実装、管理画面実装|
 |フレームワーク|Node.js|
 |DB|MariaDB、MySQL5、Redis|
-|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash、SQL|
+|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
 |管理|GitHub|
 |職位|エンジニア(チーム20名、サーバエンジニア3〜4名)|
@@ -134,7 +137,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|OAuth認証、ゲーム内コイン管理、BRIDGEログ送信を含めたBRDGE通信基盤開発|
 |フレームワーク|Node.js|
 |DB|MariaDB、MySQL5、Redis|
-|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash、SQL|
+|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
 |管理|GitHub|
 |職位|エンジニア(チーム2名、サーバエンジニア1名)|
@@ -150,7 +153,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
 |フレームワーク|Amfphp、CakePHP2、FulePHP|
 |DB|MariaDB、MySQL5、Redis、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C#(Unity5一部実装)、SQL|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C#(Unity5一部実装)|
 |VCS|Git(Bitbucket、SourceTree)|
 |管理|Redmine|
 |職位|サーバチームリーダ(チーム13名、サーバエンジニア2名)|
@@ -435,7 +438,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|光カプラ不良検査ソフト、1軸角度角速度計用デモソフト、3軸振動分析装置用デモ・解析ソフト(改修等)、静電容量式液面計検証用ソフト、カメラスタビライザソフト改修|
 |出向先|航空電子工業株式会社(昭島事業所) 産業機器技術部|
 |OS|MS-DOS、Windows 3.1、VAX|
-|言語|Quick BASIC、C言語、N88-BASIC、アセンブラ(68000、6903)|
+|言語|QuickBASIC、C、N88-BASIC、アセンブラ(68000、6309)|
 |職位|エンジニア|
 
 ##### 1993年8月
