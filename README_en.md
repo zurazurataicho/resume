@@ -18,9 +18,9 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
 
 ### Objective
-To obtain a job as a software developer and/or a network administrator. I prefer a software engineer to a network adminstrator.
-Profile
+To obtain a job as a software developer, a network administrator and/or a digital forensics engineer.
 
+### Profile
 Proficient in web development and game API using PHP, MySQL, memcached, Redis, JavaScript(with jQuery), HTML and CSS.
 Experienced in iOS/Android application development using C++/C#/Objective-C/Java, UNIX daemons development using C, embedded systems development using C and some assemblers.
 
@@ -54,6 +54,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Etc.|Design patterns, readable codes, better programmer, clean code, TDD, DDD, Algorithms, computer science|
 
 #### Certifications
+
 |Content|Passed|
 |:---|:------|
 |Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
@@ -67,27 +68,38 @@ Ability of resolution skills. Resolve any problems or troubles around developmen
 Team Leading skills, communication skills.
 
 ### Work Experience
+#### AOS Legal Technologies, Inc.
+##### Company
+- Jul.2018 - Present
+- Minato-ku, Tokyo
+- Data recovery, digital forensics.
+- Forensics engineer.
+##### Occupation
+- Analyse and discover digital evidences as forensics.
+- [Techs] Data recovery, Digital forensics, eDiscovery
+
+- - -
 #### apricotton Co Ltd.
 ##### Company
-- Sep.2013 - Present
+- Sep.2013 - Jun.2018
 - Ueno, Tokyo
-- Manager, web application developer, game API developer, network administrator
 - Game publishment
+- Manager, web application developer, game API developer, network administrator
 ##### Occupation
 - Develop web and smartphone game applications, epsecially API servers.
 - Also develop web-based customer support and game management sites.
 - Maintain KPI informations with SQL and scripting.
 - This company is run by my friend since September, 2013. I have helped him to success the company.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
-- [Techs] C/C++, C#, Java8, PHP5/7(CakePHP3, FuelPHP, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity, RoboVM
+- [Techs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
 
 - - -
 #### Reliance Big Entertainment Japan Co, Ltd.
 ##### Company
 - Jan.2013 - Aug.2013
 - Shinjuku, Tokyo
-- Leader, web game and application developer, network administrator
 - Game publishment
+- Leader, web game and application developer, network administrator
 ##### Occupation
 - Develop web and smartphone game applications, epsecially API servers.
 - Also develop web-based customer support and game management sites.
@@ -100,8 +112,8 @@ Team Leading skills, communication skills.
 ##### Company
 - Jun.2012 - Dec.2012
 - Yoyogi, Tokyo
-- Web game and application developer
 - Game publishment
+- Web game and application developer
 ##### Occupation
 - Develop web and web(browser) game applications.
 - Also develop web-based customer support and game management sites.
@@ -113,8 +125,8 @@ Team Leading skills, communication skills.
 ##### Company
 - May.2012
 - Roppongi, Tokyo
-- Web game and application developer
 - Game publishment
+- Web game and application developer
 ##### Occupation
 - Develop web and web(browser) game applications with open social API.
 - Also develop web-based customer support and game management sites.
@@ -124,8 +136,8 @@ Team Leading skills, communication skills.
 ##### Company
 - Dec.2011 - Apr.2012
 - Nakamozu, Osaka and Yokohama, Kanagawa
-- iOS application developer, system administrator
 - Game publishment
+- iOS application developer, system administrator
 ##### Occupation
 - Develop a STUN(Simple Traversal of UDP through NATs/UDP hole punching) application on iOS/iPhone.
 - Maintain and analysis log of Android OS updating system for Kyocera.
@@ -135,8 +147,8 @@ Team Leading skills, communication skills.
 ##### Company
 - Jul.2011 - Nov.2011
 - Sotokanda, Tokyo
-- Web game and application developer
 - Game publishment
+- Web game and application developer
 ##### Occupation
 - Develop web and web(browser) game applications.
 - Develop web-based customer support and game management sites.
@@ -150,8 +162,8 @@ Team Leading skills, communication skills.
 ##### Company
 - Apr.1996 - Jul.2011
 - Ome/Hino, Tokyo
-- Chief network administrator, web developer, teacher
 - Education
+- Chief network administrator, web developer, teacher
 ##### Occupation
 - Work for Information Science Research Center (ISRC) as an IT engineer, administrator, project leader/director and teacher.
 - Develop lots of web applications for other divisions to reduce their many jobs, serve students for searching information what they need.
@@ -164,9 +176,9 @@ Team Leading skills, communication skills.
 #### Daiichi Kikaku Sekkei Inc.
 ##### Company
 - Apr.1993 - Mar.1996
-- Tachikawa, Tokyo,
-- Embedded system developer, programmer
+- Tachikawa, Tokyo
 - Engineer dispatch business
+- Embedded system developer, programmer
 ##### Occupation
 - Develop some embedded systems by C and assembler, measurement system for optical coupler by QuickBASIC, some monitoring systems by C with RS-232C.
 
