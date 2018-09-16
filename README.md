@@ -85,6 +85,8 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |業務|デジタル・フォレンジック|
 |詳細|証拠性の高い記録媒体の証拠保全、データ復元、解析|
 |職位|フォレンジック・エンジニア|
+|ツール|FTK Imager、EnCase、X-Ways、Nuix、FINAL Forensics、AXIOM、BlackLight|
+|言語|Java(gradle)、bash|
 
 ### アプリコットン株式会社
 - 2013年9月〜2018年6月
