@@ -21,7 +21,7 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 To obtain a job as a software developer, a network administrator and/or a digital forensics engineer.
 
 ### Profile
-Proficient in web development and game API using PHP, MySQL, memcached, Redis, JavaScript(with jQuery), HTML and CSS.
+Proficient in web development and game API using PHP, MySQL, memcached, Redis, JavaScript(with jQuery), HTML and CSS. Make some tools with Java for digital forensics.
 Experienced in iOS/Android application development using C++/C#/Objective-C/Java, UNIX daemons development using C, embedded systems development using C and some assemblers.
 
 ### Education
@@ -77,6 +77,7 @@ Team Leading skills, communication skills.
 ##### Occupation
 - Analyse and discover digital evidences as forensics.
 - [Techs] Data recovery, Digital forensics, eDiscovery
+- [Tools] FTK Imager, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery
 
 - - -
 #### apricotton Co Ltd.
