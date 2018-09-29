@@ -18,7 +18,7 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
 
 ### Objective
-To obtain a job as a software developer, a network administrator and/or a digital forensics engineer.
+To obtain a job as a software developer, a network administrator or a digital forensics engineer.
 
 ### Profile
 Proficient in web development and game API using PHP, MySQL, memcached, Redis, JavaScript(with jQuery), HTML and CSS. Make some tools with Java for digital forensics.
@@ -35,27 +35,29 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 
 |Item|Content|
 |:---|:------|
-|Languages|Assemblers(8086/6903/68000), C, Java, QuickBASIC, PHP(CakePHP, FuelPHP...), Perl, JavaScript(jQuery), TypeScript, SQL, Shell scripting(sh/bash/csh/tcsh), HTML, CSS, TeX/LaTex|
+|Languages|Assemblers(8086/6903/68000), C/C++, Java, QuickBASIC, PHP(CakePHP, FuelPHP...), Perl, JavaScript(jQuery), TypeScript, SQL, Shell scripting(sh/bash/csh/tcsh), HTML, CSS, TeX/LaTex|
 |OS|CentOS(Linux), FreeBSD, Windows Server, Solaris|
 |Servers|Apache, nginx, Node.js, sendmail, postfix, OpenSSH, BIND, ISC-DHCP, OpenLDAP, ftp and so on|
 |DB|MySQL, PostsgreSQL, memcached, Redis|
 |Infra.|Cisoc IOS|
 |DevOps|Ansible, Docker, Vagrant (only using)|
 |Cloud|Amazon AWS, NIFTY Cloud|
+|Tools|vim, Eclipse, WebStorm, make, Gradle, Git/GitHub/BitBucket, Postman|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
+|Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
 
 #### Experience
 
 |Item|Content|
 |:---|:------|
-|Languages|C++, Go, Swift, C#, Python, Ruby, Scala|
+|Languages|Go, Swift, C#, Python, Ruby, Scala|
 |DevOps|Ansible, Docker, Vagrant|
 |Etc.|Design patterns, readable codes, better programmer, clean code, TDD, DDD, Algorithms, computer science|
 
 #### Certifications
 
-|Content|Passed|
+|Content|Passed/Acquisition|
 |:---|:------|
 |Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
 |Cisco Certified Network Associate (CCNA)|Sep. 2007|
@@ -75,9 +77,10 @@ Team Leading skills, communication skills.
 - Data recovery, digital forensics.
 - Forensics engineer.
 ##### Occupation
-- Analyse and discover digital evidences as forensics.
+- Analyse and discover digital evidences as forensics. Create some scripts and tools that process data exported by some forensics tools to human friendly.
 - [Techs] Data recovery, Digital forensics, eDiscovery
-- [Tools] FTK Imager, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery
+- [Tools] FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery
+- [Language] Java8, Shell Script
 
 - - -
 #### apricotton Co Ltd.
@@ -92,7 +95,8 @@ Team Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - This company is run by my friend since September, 2013. I have helped him to success the company.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
-- [Techs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
+- [Techs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
+- [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman
 
 - - -
 #### Reliance Big Entertainment Japan Co, Ltd.
