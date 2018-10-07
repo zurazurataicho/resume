@@ -42,7 +42,8 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Infra.|Cisoc IOS|
 |DevOps|Ansible, Docker, Vagrant (only using)|
 |Cloud|Amazon AWS, NIFTY Cloud|
-|Tools|vim, Eclipse, WebStorm, make, Gradle, Git/GitHub/BitBucket, Postman|
+|Tools|vim, Eclipse, WebStorm, make, Gradle, Git/GitHub/BitBucket, git-flow, Postman|
+|Techs|OOPS, Design pattern, Code review, Pull request|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
 |Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
@@ -95,7 +96,8 @@ Team Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - This company is run by my friend since September, 2013. I have helped him to success the company.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
-- [Techs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
+- [Langs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
+- [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible, AWS), CI(Jenkins)
 - [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman
 
 - - -

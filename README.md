@@ -83,10 +83,10 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |項目|内容|
 |---:|:---|
 |業務|デジタル・フォレンジック|
-|詳細|証拠性の高い記録媒体の証拠保全、データ復元、解析|
+|詳細|証拠性の高い記録媒体の証拠保全、データ復元・解析、出力データ処理・フィルタツール作成|
 |職位|フォレンジック・エンジニア|
-|ツール|FTK Imager、EnCase、X-Ways、Nuix、FINAL Forensics、AXIOM、BlackLight|
-|言語|Java(gradle)、bash|
+|ツール|FTK Imager、EnCase、X-Ways、Nuix、FINAL Forensics、AXIOM、BlackLight、NTFS Log Tracker、U-Recovery|
+|言語|Java8(JavaFX, gradle)、bash|
 
 ### アプリコットン株式会社
 - 2013年9月〜2018年6月
@@ -124,7 +124,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |DB|MariaDB、MySQL5、Redis|
 |言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
-|管理|GitHub|
+|管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |職位|エンジニア(チーム20名、サーバエンジニア3〜4名)|
 
 ###### 2017年10月
@@ -141,7 +141,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |DB|MySQL5、Redis|
 |言語|PHP、SQL|
 |VCS|Git(GitHub、SourceTree)|
-|管理|GitHub|
+|管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |職位|エンジニア(チーム40名、サーバエンジニア8名)|
 
 ###### 2017年9月
@@ -158,7 +158,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |DB|MariaDB、MySQL5、Redis|
 |言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
-|管理|GitHub|
+|管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |職位|エンジニア(チーム2名、サーバエンジニア1名)|
 
 ##### 2016年6月〜2017年6月
@@ -200,7 +200,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |詳細|アウトゲーム開発|
 |言語|JavaScript|
 |VCS|Git(GitHub、SourceTree)|
-|管理|JIRA|
+|管理|JIRA、GitHub(Pull Request、コードレビュー)|
 |開発手法|Pull Request|
 |職位|エンジニア|
 
@@ -231,7 +231,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |フレームワーク|FuelPHP|
 |DB|MySQL5、memcached|
 |言語|PHP、SQL|
-|VCS|Git(GitHub)|
+|VCS|Git|
 |職位|エンジニア|
 
 ##### 2013年9月〜2014年2月
@@ -267,7 +267,6 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |フレームワーク|CakePHP2|
 |DB|MySQL5、memcached|
 |言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery, DataTables, jQueryUI, jstree)|
-|VCS|Git(GitHub)|
 |職位|エンジニア|
 
 ##### 2013年1月〜2013年9月
