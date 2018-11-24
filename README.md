@@ -5,10 +5,9 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 CやBASICでモニタリングソフトなどを開発、アセンブラで組込ソフトウェアの開発経験などを経て、私立大学の情報インフラ設計・運用に従事。
 オンプレミスでのネットワーク・サーバ構築や管理ツール・ウェブシステムの開発、システムサポート、教育業務(大学講義)など長期に渡り幅広く経験。
 教育業界に約16年籍を置いた後、ゲーム開発会社転職。ブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、AWSでのインフラ構築、運用管理、CSツールやAPI開発に従事。
-その後全く新たな技術と環境を求め、デジタル・フォレンジックやリーガルテックの分野でバイナリレベルの電子証拠の調査・解析・復旧やセキュリティに関する業務に就き、現在に至る。
+現在はゲーム業界を離れ、フォトストックサービスの開発・運営を行う会社に転身。これまでの各種業界で培ってきたノウハウを基盤に、フルスタックエンジニアを目指しつつ開発を含む多方面の業務に従事。
 
-## 基本情報
-
+## コンタクト・活動
 |項目|内容|
 |---:|:---|
 |Name|EZURA, Atsushi|
@@ -22,19 +21,18 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
 
 ## 経験・分野
-- LAMP環境(クラウド・オンプレ)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
-- スマートフォンアプリAPIサーバ・ブラウザゲームサーバシステム設計・開発
-- Cocos2d-JSでのアウトゲーム(UI)開発(JavaScript)
-- インフラ(Cisco)およびUNIX系サーバ(FreeBSD/Linux等)構築・運用・管理
+- LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
+- スマートフォンアプリAPIサーバ、ブラウザゲームサーバの設計・開発(DB設計含む)
+- [Cocos2d-JS](http://www.cocos2d-x.org/)でのアウトゲーム(UI)開発(JavaScript)
+- インフラ([Cisco](https://www.cisco.com/c/ja_jp/index.html))およびUNIX系OSでのサーバ(FreeBSD/Linux等)の構築・運用・管理(オンプレミス)
 - 学内システム更新・移行等でのPL経験(進捗管理、業者折衝等)、主任として後輩育成・指導の従事
 - 学生・教職員等へのコンピュータシステムの利用等指導、プログラミングアドバイス等
-- 私立大学非常勤講師(文系学生の情報技術指導)、市民大学講座講師・補佐(東京都青梅市)
+- 私立大学非常勤講師(文系学生の情報技術指導)、市民大学講座講師および講師補佐(東京都[青梅市](http://www.city.ome.tokyo.jp/))
 - 各種サーバの構築・設定・運用等に関する執筆経験
 - デジタル・フォレンジック
 
 ## スキル一覧
-### 実務経験あり
-
+### 実務経験
 |項目|内容|
 |---:|:---|
 |言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
@@ -42,8 +40,9 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
-|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/) (利用経験)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/) (利用経験)|
 |クラウド|[Amazon AWS](https://aws.amazon.com/jp/)|
+|実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0), [デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 |運用業務|サーバ・インフラ構築運用管理|
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育業務|情報リテラシー教育(私立大学非常勤講師)|
@@ -53,15 +52,16 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 
 |項目|内容|
 |---:|:---|
-|言語|[Go](https://golang.org/)、[Swift](https://swift.org/)、[C#](https://docs.microsoft.com/ja-jp/dotnet/csharp/)、[Python](https://www.python.org/)、[Ruby](https://www.ruby-lang.org/ja/)、[Scala](https://www.scala-lang.org/) (いずれかの言語は一部業務経験有り)|
-|DevOps|Ansible、Docker、Vagrant|
-|その他|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、アルゴリズム、コンピュータサイエンス|
+|言語|[Go](https://golang.org/)、[Swift](https://swift.org/)、[C#](https://docs.microsoft.com/ja-jp/dotnet/csharp/)、[Python](https://www.python.org/)、[Ruby](https://www.ruby-lang.org/ja/)、[Scala](https://www.scala-lang.org/) (いずれも一部業務経験有り)|
+|DevOps|[Kubernetes](https://kubernetes.io/)|
+|実装技術|[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 
 ## 会社略歴
 
 |期間|業種|会社名|
 |:---|:---|:-----|
-|2018年7月〜現在|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)|
+|2018年12月〜現在|ウェブ開発|[株式会社エグゼック](https://http://i-exec.jp/)|
+|2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)|
 |2013年9月〜2018年6月|ゲーム開発|[アプリコットン株式会社](http://apricotton.co.jp/)|
 |2013年1月〜2013年8月|ゲーム開発|リライアンス・ビッグ・エンターテインメント・ジャパン株式会社|
 |2012年6月〜2012年12月|ゲーム開発|[株式会社ファンネル](http://funnel.co.jp/)|
@@ -73,9 +73,30 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 
 ## 職務経歴詳細
 
+### 株式会社エグゼック
+- 2018年12月〜現在
+- 事業内容：フォトストックサービス・ウェブ開発・運営
+- 従業員数：約18名
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|ウェブ開発|
+|担当|サーバ設計・実装・運用|
+|OS|CentOS7|
+|クラウド|未使用(オンプレミス)|
+|詳細|既存システムへの新規機能の追加実装|
+|フレームワーク||
+|DB|PostgreSQL、Redis|
+|言語|PHP7、SQL、JavaScript、bash|
+|VCS|Git(GitHub、SourceTree)|
+|職位|エンジニア(サーバエンジニア4名)|
+
+- - -
 ### AOSリーガルテック株式会社
-- 2018年7月〜現在
-- 事業内容：デジタルデータ復旧・フォレンジックに関する業務
+- 2018年7月〜2018年11月
+- 事業内容：デジタルデータ復旧・コンピュータフォレンジックに関する業務
 - 従業員数：約50名
 
 #### 業務内容
@@ -88,6 +109,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |ツール|FTK Imager、EnCase、X-Ways、Nuix、FINAL Forensics、AXIOM、BlackLight、NTFS Log Tracker、U-Recovery|
 |言語|Java8(JavaFX, gradle)、bash|
 
+- - -
 ### アプリコットン株式会社
 - 2013年9月〜2018年6月
 - 事業内容：ブラウザ・スマートフォンアプリゲームコンテンツの企画・設計・開発
@@ -497,7 +519,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |期間|内容|
 |:---|:---|
 |2005〜2009年|文系・芸術系学生へのIT基礎講義(講義名「[情報リテラシーa・b](https://www.meisei-u.ac.jp/academics/common/)」)の非常勤講師(兼務)|
-|2006〜2008年|CCNA取得講座講師(学生向け)|
+|2006〜2008年|[CCNA](https://www.cisco.com/c/ja_jp/training-events/training-certifications/certifications/associate/ccna-routing-switching.html)取得講座講師(学生向け)|
 |1996〜2000年|青梅市主催の市民講座にてパソコン・ネットワーク講座の講師・授業サポート|
 |1996〜1997年|[明星大学通信教育部](https://www.meisei-u.ac.jp/dce/)夏期スクーリングにおけるオフィスソフト等の講師・授業サポート|
 
@@ -509,7 +531,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |2003年3月|「[DHCP－ホスト設定サーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998613/)」|ISBN4-924998-613|
 |2001年9月|「[Sylpheed快適操作ガイド](https://www.amazon.co.jp/dp/4924998524/)」|ISBN4-924998-524|
 |2001年2月|「[sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-435|
-|2000年9月|社団法人パーソナルコンピュータユーザ利用技術協会「パソコンリテラシ2000年9月号」||
+|2000年9月|[社団法人パーソナルコンピュータユーザ利用技術協会](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B6%E5%88%A9%E7%94%A8%E6%8A%80%E8%A1%93%E5%8D%94%E4%BC%9A)「パソコンリテラシ2000年9月号」||
 |2000年4月|「[ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95](https://www.amazon.co.jp/dp/4924998346/)」|ISBN4-924998-346|
 
 #### 資格等
@@ -518,7 +540,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |:-------|:---|:---|
 |2008年11月|[TOEIC](http://www.iibc-global.org/toeic.html) (Test of English for International Communication)|スコア555|
 |2007年8月|[CCNA](https://ja.wikipedia.org/wiki/Cisco_Certified_Network_Associate) (Cisco Certified Network Associate)|合格|
-|1996年2月|無線従事者免許 第四級アマチュア無線技士|合格|
+|1996年2月|[無線従事者免許](https://dsk.or.jp/dskwiki/index.php?%E7%84%A1%E7%B7%9A%E5%BE%93%E4%BA%8B%E8%80%85%E9%A4%8A%E6%88%90%E8%AA%B2%E7%A8%8B) 第四級アマチュア無線技士|合格|
 |1991年11月|[第二種情報処理技術者試験](https://www.jitec.ipa.go.jp/1_11seido/s44_h6har/old_k2_1.html)|合格|
 
 #### 語学

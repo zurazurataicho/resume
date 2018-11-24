@@ -3,7 +3,7 @@
 ### Japanese Resume
 If you want to read Japanese version, please see [README.md](https://github.com/zurazurataicho/resume/blob/master/README.md) on GitHub.
 
-### Personal Info.
+### Contact and activities
 |Item|Content|
 |:---|:------|
 |Name|EZURA, Atsushi|
@@ -35,15 +35,15 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 
 |Item|Content|
 |:---|:------|
-|Languages|Assemblers(8086/6903/68000), C/C++, Java, QuickBASIC, PHP(CakePHP, FuelPHP...), Perl, JavaScript(jQuery), TypeScript, SQL, Shell scripting(sh/bash/csh/tcsh), HTML, CSS, TeX/LaTex|
-|OS|CentOS(Linux), FreeBSD, Windows Server, Solaris|
-|Servers|Apache, nginx, Node.js, sendmail, postfix, OpenSSH, BIND, ISC-DHCP, OpenLDAP, ftp and so on|
-|DB|MySQL, PostsgreSQL, memcached, Redis|
-|Infra.|Cisoc IOS|
-|DevOps|Ansible, Docker, Vagrant (only using)|
-|Cloud|Amazon AWS, NIFTY Cloud|
-|Tools|vim, Eclipse, WebStorm, make, Gradle, Git/GitHub/BitBucket, git-flow, Postman|
-|Techs|OOPS, Design pattern, Code review, Pull request|
+|Languages|[Assemblers](https://en.wikipedia.org/wiki/Assembly_language)([8086](https://en.wikipedia.org/wiki/Intel_8086)/[6309](https://en.wikipedia.org/wiki/Hitachi_6309)/[68000](https://en.wikipedia.org/wiki/Motorola_68000)), [C](http://www.open-std.org/jtc1/sc22/wg14/), [C++](https://isocpp.org/), [Java](https://java.com/), [QuickBASIC](https://en.wikipedia.org/wiki/QuickBASIC), [PHP](http://php.net/)([CakePHP](https://cakephp.org/), [FuelPHP](https://fuelphp.com/)...and so on), [Perl5](https://www.perl.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/)), [TypeScript](http://www.typescriptlang.org/), [SQL](https://www.iso.org/committee/45342.html), Shell scripting([sh](https://en.wikipedia.org/wiki/Bourne_shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](https://github.com/tcsh-org/tcsh)), [HTML](https://www.w3.org/TR/html/), [CSS](https://www.w3.org/TR/CSS/), [TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/)), [FreeBSD](https://www.freebsd.org/), [Windows](https://www.microsoft.com/en-us/windows) Server, [Solaris](https://www.oracle.com/solaris/solaris11/index.html)|
+|Servers|[Apache](https://httpd.apache.org/), [nginx](http://nginx.org/), [Node.js](https://nodejs.org/), [sendmail](https://www.proofpoint.com/us/open-source-email-solution), [postfix](http://www.postfix.org/), [OpenSSH](https://www.openssh.com/), [BIND](https://www.isc.org/downloads/bind/), [ISC-DHCP](https://www.isc.org/downloads/dhcp/), [OpenLDAP](https://www.openldap.org/), ftp ...and so on|
+|DB|[MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.com/), [PostsgreSQL](https://www.postgresql.org/), [memcached](https://memcached.org/), [Redis](https://redis.io/)|
+|Infra.|[Cisoc IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software-releases-listing.html)|
+|DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
+|Cloud|[Amazon AWS](https://aws.amazon.com/)|
+|Tools|[vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
+|Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/), [Readable code](https://www.amazon.com/dp/0596802293/), Algorithms and Data Structures, Computer Science|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
 |Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
@@ -52,9 +52,9 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 
 |Item|Content|
 |:---|:------|
-|Languages|Go, Swift, C#, Python, Ruby, Scala|
-|DevOps|Ansible, Docker, Vagrant|
-|Etc.|Design patterns, readable codes, better programmer, clean code, TDD, DDD, Algorithms, computer science|
+|Languages|[Go](https://golang.org/), [Swift](https://swift.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/), [Scala](https://www.scala-lang.org/)|
+|DevOps|[Kubernetes](https://kubernetes.io/)|
+|Techs|[Test Driven Development(TDD)](https://www.amazon.com/dp/0321146530/), [Domain Driven Development(DDD)](https://www.amazon.com/dp/0321125215/), [Continuous Delivery](https://www.amazon.com/dp/0321601912/), [Clean Code](https://www.amazon.com/dp/0132350882/), [The Clean Coder](https://www.amazon.com/dp/0137081073/), [Clean Architecture](https://www.amazon.com/dp/0134494164/), Algorithms and Data Structures, Computer Science|
 
 #### Certifications
 
@@ -71,9 +71,22 @@ Ability of resolution skills. Resolve any problems or troubles around developmen
 Team Leading skills, communication skills.
 
 ### Work Experience
+#### EXEC Co., Ltd.
+##### Company
+- Dec.2018 - Present
+- Shibuya, Tokyo
+- Web application developer, network designer, system architect
+##### Occupation
+- Develop and maintain web applications.
+- [Langs] PHP7, JavaScript, SQL
+- [Databases] PostgreSQL, Redis
+- [Techs] OOPS, MVC, Design pattern, Code review, Pull request
+- [Tools] Eclipse, vim
+
+- - -
 #### AOS Legal Technologies, Inc.
 ##### Company
-- Jul.2018 - Present
+- Jul.2018 - Nov.2018
 - Minato-ku, Tokyo
 - Data recovery, digital forensics.
 - Forensics engineer.
@@ -96,9 +109,10 @@ Team Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - This company is run by my friend since September, 2013. I have helped him to success the company.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
-- [Langs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL, MySQL(MariaDB), Redis, memcache, CentOS, AWS, PHPUnit, Cocos2d-x/js, Unity
-- [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible, AWS), CI(Jenkins)
-- [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman
+- [Langs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL
+- [Databases] MySQL(MariaDB), Redis, memcache
+- [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible, AWS), CI(Jenkins), CentOS, AWS, Cocos2d-x/js, Unity
+- [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman, PHPUnit
 
 - - -
 #### Reliance Big Entertainment Japan Co, Ltd.
