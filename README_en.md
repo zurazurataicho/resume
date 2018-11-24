@@ -60,9 +60,9 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 
 |Content|Passed/Acquisition|
 |:---|:------|
-|Test of English for International Communication (TOEIC) score 555 (as same score 4.5 of IELTS)|Nov. 2008|
-|Cisco Certified Network Associate (CCNA)|Sep. 2007|
-|Fundamental Information Technology Engineer Examination|Nov. 1991|
+|Test of English for International Communication ([TOEIC](https://www.iibc-global.org/english/toeic.html)) score 555 (as same score 4.5 of [IELTS](http://www.eiken.or.jp/ielts/en/))|Nov. 2008|
+|Cisco Certified Network Associate ([CCNA](https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html))|Sep. 2007|
+|Fundamental Information Technology Engineer Examination [FE](https://www.jitec.ipa.go.jp/2_01english/02examcategories.html)|Nov. 1991|
 
 #### Generic Skills
 Widely experiences and knowledge within IT category. For instance, programming, building infrastructures and designing database schemas.
