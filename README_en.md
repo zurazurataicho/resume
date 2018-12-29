@@ -68,7 +68,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 Widely experiences and knowledge within IT category. For instance, programming, building infrastructures and designing database schemas.
 Ability of new(trendy) skills and technical informations.
 Ability of resolution skills. Resolve any problems or troubles around developments and implementations with experiences and knowledges.
-Team Leading skills, communication skills.
+Tech Leading skills, communication skills.
 
 ### Work Experience
 #### EXEC Co., Ltd.
