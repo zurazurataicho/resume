@@ -78,7 +78,7 @@ Tech Leading skills, communication skills.
 - Web application developer, network designer, system architect
 ##### Occupation
 - Develop and maintain web applications.
-- [Langs] PHP7, JavaScript, SQL
+- [Langs] PHP7, JavaScript(ES6), SQL
 - [Databases] PostgreSQL, Redis
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request
 - [Tools] Eclipse, vim
