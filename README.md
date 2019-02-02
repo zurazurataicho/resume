@@ -87,7 +87,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |OS|CentOS7|
 |クラウド|未使用(オンプレミス)|
 |詳細|既存システムへの新規機能の追加実装|
-|フレームワーク||
+|フレームワーク|Ethna(ベース)|
 |DB|PostgreSQL、Redis|
 |言語|PHP7、SQL、JavaScript、bash|
 |VCS|Git(GitHub、SourceTree)|
