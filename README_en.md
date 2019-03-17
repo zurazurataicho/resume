@@ -19,7 +19,7 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 
 ### Objective
 To obtain a job as a software developer, a network administrator especially using DevOps.
-Always looking for latest software development technologies and a company that use them.
+Always seeking for latest software development technologies and a company that use them.
 
 ### Profile
 Proficient in web development and game API using PHP, MySQL, memcached, Redis, JavaScript(with jQuery), HTML and CSS. Make some tools with Java for digital forensics.
