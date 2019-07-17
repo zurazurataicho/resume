@@ -12,14 +12,13 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |項目|内容|
 |---:|:---|
 |Name|EZURA, Atsushi|
-|Blog|[Atsushi Ezura](http://photographer.zura.org/)|
 |GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
-|Gist|[zurazurataicho](https://gist.github.com/zurazurataicho)|
 |LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/) (English)|
-|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
 |Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
+|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
+|Blog|[Atsushi Ezura](http://photographer.zura.org/)|
 
 ## 経験・分野
 - LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
@@ -83,16 +82,16 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 
 |項目|内容|
 |---:|:---|
-|業務|ウェブ開発|
+|業務|写真販売・卒業アルバム制作支援用ウェブアプリケーション開発|
 |担当|サーバ設計・実装・運用|
 |OS|CentOS7|
 |クラウド|未使用(オンプレミス)|
 |詳細|既存システムへの新規機能の追加実装|
 |フレームワーク|Ethna(ベース)|
-|DB|PostgreSQL、Redis|
+|DB|PostgreSQL9、Redis|
 |言語|PHP7、SQL、JavaScript(ES6)、bash|
 |VCS|Git(GitHub、SourceTree)|
-|職位|エンジニア(サーバエンジニア4名)|
+|職位|エンジニア(フロントエンジニア6名)|
 
 - - -
 ### AOSリーガルテック株式会社

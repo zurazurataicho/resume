@@ -8,14 +8,13 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 |:---|:------|
 |Name|EZURA, Atsushi|
 |Live|Tokyo, Japan|
-|Blog|[Atsushi Ezura](http://photographer.zura.org/) (Japanese)|
 |GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
-|Gist|[zurazurataicho](https://gist.github.com/zurazurataicho)|
 |LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/)|
-|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho) (Japanese)|
 |Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura) (Japanese)|
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura) (Japanese)|
+|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho) (Japanese)|
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
+|Blog|[Atsushi Ezura](http://photographer.zura.org/) (Japanese)|
 
 ### Objective
 To obtain a job as a software developer, a network administrator especially using DevOps.
