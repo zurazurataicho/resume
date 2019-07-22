@@ -41,9 +41,9 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |DB|[MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.com/), [PostsgreSQL](https://www.postgresql.org/), [memcached](https://memcached.org/), [Redis](https://redis.io/)|
 |Infra.|[Cisoc IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software-releases-listing.html)|
 |DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
-|Cloud|[Amazon AWS](https://aws.amazon.com/)|
+|Cloud|[Amazon EC2](https://aws.amazon.com/)(Develop and Operate EC2 Instances)|
 |Tools|[vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
-|Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/), [Readable code](https://www.amazon.com/dp/0596802293/), Algorithms and Data Structures, Computer Science|
+|Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/), [Readable code](https://www.amazon.com/dp/0596802293/)|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
 |Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
@@ -111,7 +111,7 @@ Tech Leading skills, communication skills.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
 - [Langs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL
 - [Databases] MySQL(MariaDB), Redis, memcache
-- [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible, AWS), CI(Jenkins), CentOS, AWS, Cocos2d-x/js, Unity
+- [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible), CI(Jenkins), CentOS, Amazon EC2, Cocos2d-x/js, Unity
 - [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman, PHPUnit
 
 - - -

@@ -4,7 +4,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 ## 概要
 CやBASICでモニタリングソフトなどを開発、アセンブラで組込ソフトウェアの開発経験などを経て、私立大学の情報インフラ設計・運用に従事。
 オンプレミスでのネットワーク・サーバ構築や管理ツール・ウェブシステムの開発、システムサポート、教育業務(大学講義)など長期に渡り幅広く経験。
-教育業界に約16年籍を置いた後、ゲーム開発会社転職。ブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、AWSでのインフラ構築、運用管理、CSツールやAPI開発に従事。
+教育業界に約16年籍を置いた後、ゲーム開発会社転職。ブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、Amazon EC2でのインフラ構築、運用管理、CSツールやAPI開発に従事。
 現在はゲーム業界を離れ、フォトストックサービスの開発・運営を行う会社に転身。これまでの各種業界で培ってきたノウハウを基盤に、フルスタックエンジニアを目指しつつ開発を含む多方面の業務に従事。
 秒進分歩と呼ばれるIT業界の新技術に常に興味を示し習得の努力を継続中。新しい技術を模索・活用する企業や組織でスキルを磨きながら組織に還元することを模索している。
 
@@ -23,13 +23,12 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 ## 経験・分野
 - LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
 - スマートフォンアプリAPIサーバ、ブラウザゲームサーバの設計・開発(DB設計含む)
-- [Cocos2d-JS](http://www.cocos2d-x.org/)でのアウトゲーム(UI)開発(JavaScript)
+- [Cocos2d-JS](http://www.cocos2d-x.org/)でのアウトゲーム(UI)開発
 - インフラ([Cisco](https://www.cisco.com/c/ja_jp/index.html))およびUNIX系OSでのサーバ(FreeBSD/Linux等)の構築・運用・管理(オンプレミス)
 - 学内システム更新・移行等でのPL経験(進捗管理、業者折衝等)、主任として後輩育成・指導の従事
 - 学生・教職員等へのコンピュータシステムの利用等指導、プログラミングアドバイス等
 - 私立大学非常勤講師(文系学生の情報技術指導)、市民大学講座講師および講師補佐(東京都[青梅市](http://www.city.ome.tokyo.jp/))
 - 各種サーバの構築・設定・運用等に関する執筆経験
-- デジタル・フォレンジック
 
 ## スキル一覧
 ### 実務経験
@@ -41,8 +40,8 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
 |DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/) (利用経験)|
-|クラウド|[Amazon AWS](https://aws.amazon.com/jp/)|
-|実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0), [デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、アルゴリズムとデータ構造、コンピュータサイエンス|
+|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)(インスタンスの設定・運用等)|
+|実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0), [デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |運用業務|サーバ・インフラ構築運用管理|
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育業務|情報リテラシー教育(私立大学非常勤講師)|
@@ -190,7 +189,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |業務|スマホアプリ用サーバ開発運用(出向)|
 |担当|既存ゲームのサーバ実装の改修・機能拡張・機能追加、サービス終了作業、CS関連調査|
 |OS|CentOS 5.6|
-|クラウド|Amazon AWS|
+|クラウド|Amazon EC2|
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
 |フレームワーク|Amfphp、CakePHP2、FulePHP|
 |DB|MariaDB、MySQL5、Redis、memcached|
@@ -262,8 +261,8 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |---:|:---|
 |業務|自社公式サイト等開発|
 |担当|自社の公式サイトのインフラ設計〜実装、運用|
-|OS|CentOS 5.6(AWS)|
-|クラウド|Amazon AWS|
+|OS|CentOS 5.6(Amazon EC2)|
+|クラウド|Amazon EC2|
 |詳細|管理画面、表示機能|
 |DB|MySQL5|
 |言語|PHP、SQL|
@@ -284,7 +283,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |業務|フィーチャーフォン用サーバ開発(移行)|
 |担当|サーバ実装の改修・機能拡張・追加、インフラ構築・運用|
 |OS|CentOS 5|
-|クラウド|Amazon AWS|
+|クラウド|Amazon EC2|
 |詳細|既存実装改修、API実装、管理画面実装、メール一斉配信システム開発、イメージサーバ開発、KPI分析等(SQL)、CSツール開発・改修、VPNサーバ開発|
 |フレームワーク|CakePHP2|
 |DB|MySQL5、memcached|
@@ -298,7 +297,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |業務|自社サイト・インフラ開発|
 |担当|サーバ実装の改修・機能拡張・追加、インフラ構築・運用|
 |OS|CentOS 5.6|
-|クラウド|Amazon AWS|
+|クラウド|Amazon EC2|
 |詳細|Facebookアプリ(フィーチャーフォンゲームのティザー)開発・公式サイトおよび関連インフラ構築|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
@@ -320,7 +319,7 @@ CやBASICでモニタリングソフトなどを開発、アセンブラで組�
 |業務|ゲーム公式サイト・CSツール設計改修・ポータルサイトとのチャネリング|
 |担当|自社ゲームの公式サイト・プラットフォーム・社内ツールの設計・実装|
 |OS|CentOS 5|
-|クラウド|Amazon AWS|
+|クラウド|Amazon EC2|
 |詳細|ゲーム公式サイト開発、ユーザ管理DB設計、CSツール開発、メール一斉配信システム開発、ポータルサイトとのチャネリング(Realworld、aima)|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
