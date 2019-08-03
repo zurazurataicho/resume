@@ -43,7 +43,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
 |Cloud|[Amazon EC2](https://aws.amazon.com/)(Develop and Operate EC2 Instances)|
 |Tools|[vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
-|Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/), [Readable code](https://www.amazon.com/dp/0596802293/)|
+|Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Readable code](https://www.amazon.com/dp/0596802293/), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/)|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
 |Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
@@ -52,9 +52,9 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 
 |Item|Content|
 |:---|:------|
-|Languages|[Go](https://golang.org/), [Swift](https://swift.org/), [C#](https://docs.microsoft.com/en-us/dotnet/csharp/), [Python](https://www.python.org/), [Ruby](https://www.ruby-lang.org/), [Scala](https://www.scala-lang.org/)|
-|DevOps|[Kubernetes](https://kubernetes.io/)|
-|Techs|[Test Driven Development(TDD)](https://www.amazon.com/dp/0321146530/), [Domain Driven Development(DDD)](https://www.amazon.com/dp/0321125215/), [Continuous Delivery](https://www.amazon.com/dp/0321601912/), [Clean Code](https://www.amazon.com/dp/0132350882/), [The Clean Coder](https://www.amazon.com/dp/0137081073/), [Clean Architecture](https://www.amazon.com/dp/0134494164/), Algorithms and Data Structures, Computer Science|
+|Languages|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Kubernetes](https://kubernetes.io/)|
+|Techs|[Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Readable code](https://www.amazon.com/dp/0596802293/), [Test Driven Development(TDD)](https://www.amazon.com/dp/0321146530/), [Domain Driven Development(DDD)](https://www.amazon.com/dp/0321125215/), [Continuous Delivery](https://www.amazon.com/dp/0321601912/), [Clean Code](https://www.amazon.com/dp/0132350882/), [The Clean Coder](https://www.amazon.com/dp/0137081073/), [Clean Architecture](https://www.amazon.com/dp/0134494164/), Algorithms and Data Structures, Computer Science|
 
 #### Certifications
 
@@ -78,7 +78,7 @@ Tech Leading skills, communication skills.
 - Web application developer, network designer, system architect
 ##### Occupation
 - Develop and maintain web applications.
-- [Langs] PHP7, JavaScript(ES6), SQL
+- [Langs] PHP7, JavaScript(ES6, jQuery), SQL
 - [Databases] PostgreSQL, Redis
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request
 - [Tools] Eclipse, vim

@@ -43,14 +43,14 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育業務|情報リテラシー教育(私立大学非常勤講師)|
 
-### 独学・趣味
-- IT関連スキルは基本的に独学にて習得し、実践で活用・応用をしている。
+### 独学・個人研究
+- IT関連スキルは基本的に独学にて習得し、いつでも現場・実践での活用・応用ができるよう心がけている。
 
 |項目|内容|
 |---:|:---|
-|言語|[Go](https://golang.org/)、[Swift](https://swift.org/)、[C#](https://docs.microsoft.com/ja-jp/dotnet/csharp/)、[Python](https://www.python.org/)、[Ruby](https://www.ruby-lang.org/ja/)、[Scala](https://www.scala-lang.org/) (いずれも一部業務経験有り)|
-|DevOps|[Kubernetes](https://kubernetes.io/)|
-|実装技術|[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
+|言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Kubernetes](https://kubernetes.io/)|
+|実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 
 ## 会社略歴
 
@@ -85,7 +85,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |詳細|既存Webサービスのサーバ実装改修・機能拡張・追加や、新規開発を担当。ウェブフロント実装、API実装、管理画面実装など|
 |フレームワーク|Ethna(ベース)|
 |DB|PostgreSQL9、Redis|
-|言語|PHP7、SQL、JavaScript(ES6)、bash|
+|言語|PHP7、SQL、JavaScript(ES6, jQuery)、bash|
 |VCS|Git(GitHub、SourceTree)|
 |職位|エンジニア(フロントエンジニア6名)|
 
