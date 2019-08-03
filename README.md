@@ -49,6 +49,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
+|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)|
 |DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Kubernetes](https://kubernetes.io/)|
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 

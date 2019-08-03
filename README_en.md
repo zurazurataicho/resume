@@ -53,6 +53,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Item|Content|
 |:---|:------|
 |Languages|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
+|Frameworks|[Vue.js](https://vuejs.org/)、[Vuex](https://vuex.vuejs.org/)|
 |DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Kubernetes](https://kubernetes.io/)|
 |Techs|[Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Readable code](https://www.amazon.com/dp/0596802293/), [Test Driven Development(TDD)](https://www.amazon.com/dp/0321146530/), [Domain Driven Development(DDD)](https://www.amazon.com/dp/0321125215/), [Continuous Delivery](https://www.amazon.com/dp/0321601912/), [Clean Code](https://www.amazon.com/dp/0132350882/), [The Clean Coder](https://www.amazon.com/dp/0137081073/), [Clean Architecture](https://www.amazon.com/dp/0134494164/), Algorithms and Data Structures, Computer Science|
 
