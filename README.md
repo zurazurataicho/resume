@@ -2,8 +2,8 @@
 You can see my resume in English [here](https://github.com/zurazurataicho/resume/blob/master/README_en.md).
 
 ## 概要
-Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ設計・運用に従事。オンプレミスにてスクラッチからのネットワーク・サーバ構築や管理ツールの開発、学内の全コンピュータ・ネットワークシステムの導入・リプレイス業務、大学事務局の要望に応じた部署用ウェブシステムの開発、市民・学生等への情報リテラシー教育など長期に渡り幅広く経験。
-その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築(オンプレミス)、Amazon EC2でのインフラ構築、運用管理、CSツールやAPI開発に従事。数度の転機によりウェブ（フロント・バックエンド）開発業務に従事し、現在に至る。
+　Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ部門に入職し設計・運用に従事。オンプレミスにてゼロからのネットワーク・サーバ構築や管理ツールの開発、学内の教職員・授業用コンピュータ・ネットワークシステムの導入・リプレイス業務や、大学事務局の要望に応じた部署用ウェブシステムの開発など技術面のみならず、キャンパス所在地である東京都青梅市民に向けたIT講習会や、文系・芸術系学生への情報リテラシー教育なども長期に渡り経験。
+　その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築、Amazon EC2でのインフラ構築、運用管理、CSツールやAPI開発に従事。数度の転機によりウェブ（フロント・バックエンド）開発業務に従事し、現在に至る。
 
 ## コンタクト・活動
 |項目|内容|
@@ -33,10 +33,10 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |---:|:---|
 |言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
 |OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)|
-|サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
+|サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/))、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
-|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/) (利用経験)|
+|DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |クラウド|[Amazon EC2](https://aws.amazon.com/jp/)(インスタンスの設定・運用等)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0), [デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |運用業務|サーバ・インフラ構築運用管理|
@@ -50,14 +50,15 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |---:|:---|
 |言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
 |フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)|
-|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Kubernetes](https://kubernetes.io/)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 
 ## 会社略歴
 
 |期間|業務|会社名|
 |:---|:---|:-----|
-|2018年12月〜現在|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)|
+|2019年11月〜現在|システム開発・企画|[株式会社VICode](http://vicode.jp/)|
+|2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)|
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)|
 |2013年9月〜2018年6月|ゲーム開発|[アプリコットン株式会社](http://apricotton.co.jp/)|
 |2013年1月〜2013年8月|ゲーム開発|リライアンス・ビッグ・エンターテインメント・ジャパン株式会社|
@@ -70,8 +71,28 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 ## 職務経歴詳細
 
+### 株式会社VICode
+- 2019年11月〜現在
+- 事業内容：IT・画像認識等に関するシステム・サービス企画、開発、運営
+- 従業員数：約10名
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|VICodeに関する企画・設計・開発|
+|担当|システムの企画・設計・開発・実装・運用|
+|OS|CentOS7|
+|クラウド|AWS EC2, AWS S3|
+|言語|JavaScript(Node.js, Express.js, Pug)、TypeScript、Python(Django)、SQL|
+|DB|PostgreSQL12、Redis|
+|DevOps|Docker、Docker Compose|
+|VCS|Git(GitHub、SourceTree)|
+|職位|ディレクター、プロジェクトマネジメント・エンジニア|
+
+- - -
 ### 株式会社エグゼック
-- 2018年12月〜現在
+- 2018年12月〜2019年10月
 - 事業内容：フォトストックサービス用ウェブ開発・運営
 - 従業員数：約20名
 

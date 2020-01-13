@@ -37,10 +37,10 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |:---|:------|
 |Languages|[Assemblers](https://en.wikipedia.org/wiki/Assembly_language)([8086](https://en.wikipedia.org/wiki/Intel_8086)/[6309](https://en.wikipedia.org/wiki/Hitachi_6309)/[68000](https://en.wikipedia.org/wiki/Motorola_68000)), [C](http://www.open-std.org/jtc1/sc22/wg14/), [C++](https://isocpp.org/), [Java](https://java.com/), [QuickBASIC](https://en.wikipedia.org/wiki/QuickBASIC), [PHP](http://php.net/)([CakePHP](https://cakephp.org/), [FuelPHP](https://fuelphp.com/)...and so on), [Perl5](https://www.perl.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/)), [TypeScript](http://www.typescriptlang.org/), [SQL](https://www.iso.org/committee/45342.html), Shell scripting([sh](https://en.wikipedia.org/wiki/Bourne_shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](https://github.com/tcsh-org/tcsh)), [HTML](https://www.w3.org/TR/html/), [CSS](https://www.w3.org/TR/CSS/), [TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
 |OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/)), [FreeBSD](https://www.freebsd.org/), [Windows](https://www.microsoft.com/en-us/windows) Server, [Solaris](https://www.oracle.com/solaris/solaris11/index.html)|
-|Servers|[Apache](https://httpd.apache.org/), [nginx](http://nginx.org/), [Node.js](https://nodejs.org/), [sendmail](https://www.proofpoint.com/us/open-source-email-solution), [postfix](http://www.postfix.org/), [OpenSSH](https://www.openssh.com/), [BIND](https://www.isc.org/downloads/bind/), [ISC-DHCP](https://www.isc.org/downloads/dhcp/), [OpenLDAP](https://www.openldap.org/), ftp ...and so on|
+|Servers|[Apache](https://httpd.apache.org/), [nginx](http://nginx.org/), [Node.js](https://nodejs.org/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/)), [sendmail](https://www.proofpoint.com/us/open-source-email-solution), [postfix](http://www.postfix.org/), [OpenSSH](https://www.openssh.com/), [BIND](https://www.isc.org/downloads/bind/), [ISC-DHCP](https://www.isc.org/downloads/dhcp/), [OpenLDAP](https://www.openldap.org/), ftp ...and so on|
 |DB|[MySQL](https://www.mysql.com/), [MariaDB](https://mariadb.com/), [PostsgreSQL](https://www.postgresql.org/), [memcached](https://memcached.org/), [Redis](https://redis.io/)|
 |Infra.|[Cisoc IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software-releases-listing.html)|
-|DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
+|DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
 |Cloud|[Amazon EC2](https://aws.amazon.com/)(Develop and Operate EC2 Instances)|
 |Tools|[vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
 |Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Readable code](https://www.amazon.com/dp/0596802293/), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/)|
@@ -72,9 +72,22 @@ Ability of resolution skills. Resolve any problems or troubles around developmen
 Tech Leading skills, communication skills.
 
 ### Work Experience
+#### VICode Co., Ltd.
+##### Company
+- Nov.2019 - Present
+- Ichigaya, Tokyo
+- Web application developer, network designer, system architect, director
+##### Occupation
+- Develop and maintain web applications and APIs.
+- [Langs] Node.js(Express.js, Pug), JavaScript, TypeScript, Python(Django), SQL
+- [Databases] PostgreSQL, Redis
+- [Techs] Amazon EC2, AWS S3, Docker, Docker Composer, MVC
+- [Tools] vim, GitHub
+
+- - -
 #### EXEC Co., Ltd.
 ##### Company
-- Dec.2018 - Present
+- Dec.2018 - Oct.2019
 - Shibuya, Tokyo
 - Web application developer, network designer, system architect
 ##### Occupation
