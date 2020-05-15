@@ -15,7 +15,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
-|Blog|[Atsushi Ezura](http://photographer.zura.org/)|
+|Photographer|[Atsushi Ezura](https://zura.org/)|
 
 ## 経験・分野
 - LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
@@ -81,14 +81,14 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |項目|内容|
 |---:|:---|
 |業務|VICodeに関する企画・設計・開発|
-|担当|システムの企画・設計・開発・実装・運用|
+|担当|ソフトウェア開発プロジェクトリーダー、システム(WebAPI・管理画面等)の企画・設計・開発・実装・運用、事業プロジェクトに関する各種業務(規約草案作成・料金プラン設計・各種企画業務その他)|
 |OS|CentOS7|
-|クラウド|AWS EC2, AWS S3|
-|言語|JavaScript(Node.js, Express.js, Pug)、TypeScript、Python(Django)、SQL|
-|DB|PostgreSQL12、Redis|
+|クラウド|AWS (EC2, S3, RDS)|
+|言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL|
+|DB|PostgreSQL9/12、Redis|
 |DevOps|Docker、Docker Compose|
 |VCS|Git(GitHub、SourceTree)|
-|職位|ディレクター、プロジェクトマネジメント・エンジニア|
+|職位|ディレクター・ソフトウェア開発プロジェクトリーダー、ソフトウェアエンジニア|
 
 - - -
 ### 株式会社エグゼック

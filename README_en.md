@@ -14,7 +14,7 @@ If you want to read Japanese version, please see [README.md](https://github.com/
 |Twitter|[@atsushiezura](https://twitter.com/atsushiezura) (Japanese)|
 |Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho) (Japanese)|
 |Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
-|Blog|[Atsushi Ezura](http://photographer.zura.org/) (Japanese)|
+|Photographer|[Atsushi Ezura](https://zura.org/) (Japanese)|
 
 ### Objective
 To obtain a job as a software developer, a network administrator especially using DevOps.
@@ -78,11 +78,11 @@ Tech Leading skills, communication skills.
 - Ichigaya, Tokyo
 - Web application developer, network designer, system architect, director
 ##### Occupation
-- Develop and maintain web applications and APIs.
-- [Langs] Node.js(Express.js, Pug), JavaScript, TypeScript, Python(Django), SQL
-- [Databases] PostgreSQL, Redis
-- [Techs] Amazon EC2, AWS S3, Docker, Docker Composer, MVC
-- [Tools] vim, GitHub
+- Design and develop WebAPI and some web applications (i.e. administrator console web system)
+- [Langs] Node.js(with Express.js, Pug), TypeScript, JavaScript, Python(Django), SQL
+- [Databases] PostgreSQL9/12, Redis
+- [Techs] Amazon EC2, AWS S3, AWS RDS, Docker, Docker Composer, MVC
+- [Tools] vim, GitHub, SourceTree
 
 - - -
 #### EXEC Co., Ltd.
