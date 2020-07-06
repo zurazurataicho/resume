@@ -85,6 +85,18 @@ Tech Leading skills, communication skills.
 - [Tools] vim, GitHub, SourceTree
 
 - - -
+#### Azland Co., Ltd.
+##### Company
+- Jan.2020 - Present
+- Ome, Tokyo
+- Android application and Arduino embedded software programmer
+##### Occupation
+- Develop health measurement software
+- [Langs] Java(Android), C/C++(Arduiono, ESP32)
+- [Techs] Android SDK, Arduino SDK
+- [Tools] vim, GitHub, Android Studio, Arduino Studio
+
+- - -
 #### EXEC Co., Ltd.
 ##### Company
 - Dec.2018 - Oct.2019
