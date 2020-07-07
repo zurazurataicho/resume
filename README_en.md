@@ -93,7 +93,7 @@ Tech Leading skills, communication skills.
 ##### Occupation
 - Develop health measurement software
 - [Langs] Java(Android), C/C++(Arduiono, ESP32)
-- [Techs] Android SDK, Arduino SDK
+- [Techs] Android SDK, Arduino SDK, USB, BLE, Felica/Pasori(RC-S380/P)
 - [Tools] vim, GitHub, Android Studio, Arduino Studio
 
 - - -

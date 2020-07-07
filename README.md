@@ -105,6 +105,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |担当|ソフトウェア開発|
 |OS|Arduino|
 |言語|Java(Androidアプリ), C/C++(Arduino組み込みソフトウェア)|
+|システム|Android SDK, Arduino SDK, BLE, USB, Felica/Pasori(RC-S380/P)|
 |VCS|Git(GitHub)|
 |職位|ソフトウェアエンジニア|
 
