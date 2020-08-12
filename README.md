@@ -34,7 +34,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |---:|:---|
 |言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
 |Web技術|[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[Bootstrap](https://getbootstrap.com/)、[jQuery](https://jquery.com/)、[Sass](https://sass-lang.com/)、[Webpack](https://webpack.js.org/)、[PM2](https://pm2.keymetrics.io/)、[ESLint](https://eslint.org/)、[npm](https://www.npmjs.com/)|
-|OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)、[Amazon Linux 2](https://aws.amazon.com/jp/amazon-linux-2/)|
+|OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)、[Amazon Linux 2](https://aws.amazon.com/jp/amazon-linux-2/)、[iOS](https://www.apple.com/jp/ios/i)、[Android](https://www.android.com/)、[Arduino](https://www.arduino.cc/)([ESP32/espressif](https://github.com/espressif/arduino-esp32))|
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/))、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
@@ -87,13 +87,14 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |---:|:---|
 |業務|VICodeに関する企画・設計・開発|
 |担当|ソフトウェア開発プロジェクトリーダー、システム(WebAPI・管理画面等)の企画・設計・開発・実装・運用、事業プロジェクトに関する各種業務(規約草案作成・料金プラン設計・各種企画業務その他)|
-|OS|CentOS7|
-|クラウド|AWS (EC2, S3, RDS)|
-|言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL|
+|OS|Amazon Linux 2|
+|クラウド|AWS (EC2, S3, RDS, ElastiCache, ELB, ACM, Auto Scaling)|
+|言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL、HTML5、CSS3、Bootstrap4|
+|ライブラリ|OpenGL|
 |DB|PostgreSQL9/12、Redis|
 |DevOps|Docker、Docker Compose|
 |VCS|Git(GitHub、SourceTree)|
-|職位|ディレクター・ソフトウェア開発プロジェクトリーダー、ソフトウェアエンジニア|
+|職位|ディレクター・ソフトウェア開発プロジェクトリーダー、ソフトウェアエンジニア、外注管理・スケジュール管理担当|
 
 - - -
 ### 株式会社アズランド
@@ -107,9 +108,9 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |---:|:---|
 |業務|体力測定機器の設計・開発|
 |担当|ソフトウェア開発|
-|OS|Arduino|
+|OS|Arduino、Android|
 |言語|Java(Androidアプリ), C/C++(Arduino組み込みソフトウェア)|
-|システム|Android SDK, Arduino SDK, BLE, USB, Felica/Pasori(RC-S380/P)|
+|システム|Android SDK, Arduino SDK, ESP32, BLE(Bluetooth Low Energy), USB, Felica/Pasori(RC-S380/P)|
 |VCS|Git(GitHub)|
 |職位|ソフトウェアエンジニア|
 
