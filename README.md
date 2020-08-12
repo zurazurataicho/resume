@@ -32,26 +32,29 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 ### 実務経験
 |項目|内容|
 |---:|:---|
-|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)([jQuery](https://jquery.com/))、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|Web技術|[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[Bootstrap](https://getbootstrap.com/)、[jQuery](https://jquery.com/)、[Sass](https://sass-lang.com/)、[Webpack](https://webpack.js.org/)、[PM2](https://pm2.keymetrics.io/)、[ESLint](https://eslint.org/)、[npm](https://www.npmjs.com/)|
 |OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)|
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/))、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
-|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)(インスタンスの設定・運用等)|
+|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)|
+|DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0), [デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |運用業務|サーバ・インフラ構築運用管理|
 |開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育業務|情報リテラシー教育(私立大学非常勤講師)|
+|企画管理|プロジェクトリーダー、開発ディレクター、外注管理(開発スケジュール・技術対応等)、企画・立案・サービス戦略|
 
 ### 独学・個人研究
 - IT関連スキルは基本的に独学にて習得し、いつでも現場・実践での活用・応用ができるよう心がけている。
 
 |項目|内容|
 |---:|:---|
-|言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Python](https://www.python.org/)、[Scala](https://www.scala-lang.org/)|
-|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)|
-|DevOps|[Ansible](https://www.ansible.com/)、[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
+|言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Swift](https://swift.org/)、[Kotlin](https://kotlinlang.org/)、[Dart](https://dart.dev/)、[Scala](https://www.scala-lang.org/)、[Python](https://www.python.org/)|
+|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)、[Vuetify](https://vuetifyjs.com/ja/)、[Flutter](https://flutter.dev/)|
+|DevOps|[Ansible](https://www.ansible.com/)、[Kubernetes](https://kubernetes.io/)、[Terraform](https://www.terraform.io/)|
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 
 ## 会社略歴
