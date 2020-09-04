@@ -88,7 +88,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |業務|VIcodeに関する企画・設計・開発|
 |担当|ソフトウェア開発プロジェクトリーダー、システム(WebAPI・管理画面等)の企画・設計・開発・実装・運用、事業プロジェクトに関する各種業務(規約草案作成・料金プラン設計・各種企画業務その他)|
 |OS|Amazon Linux 2|
-|クラウド|AWS (EC2, S3, RDS, ElastiCache, ELB, ACM, Auto Scaling)|
+|クラウド|AWS (EC2, S3, RDS, ElastiCache, ELB/ALB, ACM, Auto Scaling)|
 |言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL、HTML5、CSS3、Bootstrap4|
 |ライブラリ|OpenGL|
 |DB|PostgreSQL9/12、Redis|
