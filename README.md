@@ -39,7 +39,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
-|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)|
+|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)(ALB, マルチドメイン対応)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)(ACM, ワイルドカード設定)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)、[AWS Route53](https://aws.amazon.com/jp/route53/)|
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |運用業務|サーバ・インフラ構築運用管理|
@@ -88,7 +88,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |業務|VIcodeに関する企画・設計・開発|
 |担当|ソフトウェア開発プロジェクトリーダー、システム(WebAPI・管理画面等)の企画・設計・開発・実装・運用、事業プロジェクトに関する各種業務(規約草案作成・料金プラン設計・各種企画業務その他)|
 |OS|Amazon Linux 2|
-|クラウド|AWS (EC2, S3, RDS, ElastiCache, ELB/ALB, ACM, Auto Scaling)|
+|クラウド|AWS (EC2, S3, S3 NFS(s3fs by FUSE), RDS, ElastiCache, ELB/ALB, ACM, Auto Scaling)|
 |言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL、HTML5、CSS3、Bootstrap4|
 |ライブラリ|OpenGL|
 |DB|PostgreSQL9/12、Redis|
