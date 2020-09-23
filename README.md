@@ -42,10 +42,10 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)(ALB, マルチドメイン対応)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)(ACM, ワイルドカード設定)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)、[AWS Route53](https://aws.amazon.com/jp/route53/)|
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
-|運用業務|サーバ・インフラ構築運用管理|
-|開発業務|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
-|教育業務|情報リテラシー教育(私立大学非常勤講師)|
-|企画管理|プロジェクトリーダー、開発ディレクター、外注管理(開発スケジュール・技術対応等)、企画・立案・サービス戦略|
+|開発|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
+|教育|情報リテラシー教育(私立大学非常勤講師)、学生IT指導|
+|企画|開発ディレクター、事業内容企画・立案・サービス戦略、ITコンサルティング|
+|管理|プロジェクトリーダー、外注管理(開発スケジュール・技術対応等)|
 
 ### 独学・個人研究
 - IT関連スキルは基本的に独学にて習得し、いつでも現場・実践での活用・応用ができるよう心がけている。
@@ -57,12 +57,12 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |DevOps|[Ansible](https://www.ansible.com/)、[Kubernetes](https://kubernetes.io/)、[Terraform](https://www.terraform.io/)|
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
 
-## 会社略歴
+## 略歴
+### 所属
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
 |2019年11月〜現在|システム開発・企画|[株式会社VICode](http://vicode.jp/)||
-|2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|個人請負(上記と並行)|
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
 |2013年9月〜2018年6月|ゲーム開発|[アプリコットン株式会社](http://apricotton.co.jp/)||
@@ -73,6 +73,13 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |2011年7月〜2011年11月|ゲーム開発|ルークデジタルエンターテイメント株式会社|会社都合解雇|
 |1996年4月〜2011年7月|インフラ・教育|[明星大学](https://www.meisei-u.ac.jp/)(学校法人明星学苑)||
 |1993年4月〜1996年3月|システム開発|[第一企画設計株式会社](http://www.dik-web.co.jp/)||
+
+### その他
+
+|期間|業務|会社名|備考|
+|:---|:---|:-----|:---|
+|2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他)|
+|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO(ITコンサル、インフラ管理、ウェブ開発その他)|
 
 ## 職務経歴詳細
 

@@ -47,6 +47,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
 |Forensics|FTK Imager, DEFT, EnCase, Nuix, X-Ways, FINAL Forensics, AXIOM, BlackLight, NTFS Log Tracker, U-Recovery|
+|etc.|IT consulting, project management, business planning|
 
 #### Experience
 
