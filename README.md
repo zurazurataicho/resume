@@ -43,7 +43,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |開発|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
-|教育|情報リテラシー教育(私立大学非常勤講師)、学生IT指導|
+|教育|[情報リテラシー教育](https://www.meisei-u.ac.jp/academics/common/)(私立大学非常勤講師)、学生IT指導|
 |企画|開発ディレクター、事業内容企画・立案・サービス戦略、ITコンサルティング|
 |管理|プロジェクトリーダー、外注管理(開発スケジュール・技術対応等)|
 
