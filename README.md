@@ -62,7 +62,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2019年11月〜現在|システム開発・企画|[株式会社VICode](http://vicode.jp/)||
+|2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)||
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
 |2013年9月〜2018年6月|ゲーム開発|[アプリコットン株式会社](http://apricotton.co.jp/)||
@@ -84,9 +84,9 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 ## 職務経歴詳細
 
 ### 株式会社VICode
-- 2019年11月〜現在
+- 2019年11月〜2020年11月
 - 事業内容：IT・画像認識等に関するシステム・サービス企画、開発、運営
-- 従業員数：約10名
+- 従業員数：約2名
 
 #### 業務内容
 
@@ -575,7 +575,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |2003年3月|「[DHCP－ホスト設定サーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998613/)」|ISBN4-924998-613|
 |2001年9月|「[Sylpheed快適操作ガイド](https://www.amazon.co.jp/dp/4924998524/)」|ISBN4-924998-524|
 |2001年2月|「[sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-435|
-|2000年9月|[社団法人パーソナルコンピュータユーザ利用技術協会](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B6%E5%88%A9%E7%94%A8%E6%8A%80%E8%A1%93%E5%8D%94%E4%BC%9A)「パソコンリテラシ2000年9月号」||
+|2000年9月|「パソコンリテラシ2000年9月号」[社団法人パーソナルコンピュータユーザ利用技術協会](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B6%E5%88%A9%E7%94%A8%E6%8A%80%E8%A1%93%E5%8D%94%E4%BC%9A)||
 |2000年4月|「[ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95](https://www.amazon.co.jp/dp/4924998346/)」|ISBN4-924998-346|
 
 #### 資格等
