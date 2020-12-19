@@ -26,11 +26,18 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 - 学内システム更新・移行等でのPL経験(進捗管理、業者折衝等)、主任として後輩育成・指導の従事
 - 学生・教職員等へのコンピュータシステムの利用等指導、プログラミングアドバイス等
 - 私立大学非常勤講師(文系学生の情報技術指導)、市民大学講座講師および講師補佐(東京都[青梅市](http://www.city.ome.tokyo.jp/))
-- 各種サーバの構築・設定・運用等に関する書籍執筆経験
-- プロジェクトの主導的立場として企画・立案・スケジュール管理からシステム設計・実装など幅広い業務の遂行
+- 各種サーバの構築・設定・運用等に関する書籍執筆
+- プロジェクトの主導的立場として企画・立案・スケジュール管理・外注管理からシステム設計・実装など幅広い業務の遂行
 
 ## スキル一覧
 ### 実務経験
+#### マネジメント経験
+|項目|内容|
+|---:|:---|
+|マネジメント|学内SE主任、プロジェクト主導・管理、外注管理(開発スケジュール・技術対応等)|
+|企画・経営|開発ディレクター、事業内容企画・立案・サービス戦略、ITコンサルティング|
+
+#### 技術経験
 |項目|内容|
 |---:|:---|
 |言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
@@ -39,13 +46,11 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/))、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
 |DB|[MySQL](https://www.mysql.com/jp/)、[MariaDB](https://mariadb.com/)、[PostsgreSQL](https://www.postgresql.org/)、[memcached](https://memcached.org/)、[Redis](https://redis.io/)|
 |インフラ|[Cisco IOS](https://www.cisco.com/c/ja_jp/products/ios-nx-os-software/ios-software-releases-listing.html)|
-|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)(ALB, マルチドメイン対応)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)(ACM, ワイルドカード設定)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)、[AWS Route53](https://aws.amazon.com/jp/route53/)|
+|クラウド|[Amazon EC2](https://aws.amazon.com/jp/)、[Amazon S3](https://aws.amazon.com/jp/s3/)、[Amazon RDS](https://aws.amazon.com/jp/rds/)、[Elastic Load Balancing](https://aws.amazon.com/jp/elasticloadbalancing/)(ALB, マルチドメイン対応)、[AWS Certificate Manager](https://aws.amazon.com/jp/certificate-manager/)(ACM, ワイルドカード設定)、[AWS Auto Scaling](https://aws.amazon.com/jp/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/jp/elasticache/)、[AWS Route53](https://aws.amazon.com/jp/route53/)、[VM Import/Export](https://aws.amazon.com/jp/ec2/vm-import/)|
 |DevOps|[Docker](https://www.docker.com/)、[Docker Compose](http://docs.docker.jp/compose/toc.html)、[Jenkins](https://jenkins.io/)、[Vagrant](https://www.vagrantup.com/)、[VirtualBox](https://www.virtualbox.org/)|
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |開発|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育|[情報リテラシー教育](https://www.meisei-u.ac.jp/academics/common/)(私立大学非常勤講師)、学生IT指導|
-|企画|開発ディレクター、事業内容企画・立案・サービス戦略、ITコンサルティング|
-|管理|プロジェクトリーダー、外注管理(開発スケジュール・技術対応等)|
 
 ### 独学・個人研究
 - IT関連スキルは基本的に独学にて習得し、いつでも現場・実践での活用・応用ができるよう心がけている。
@@ -55,7 +60,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Swift](https://swift.org/)、[Kotlin](https://kotlinlang.org/)、[Dart](https://dart.dev/)、[Scala](https://www.scala-lang.org/)、[Python](https://www.python.org/)|
 |フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)、[Vuetify](https://vuetifyjs.com/ja/)、[Flutter](https://flutter.dev/)|
 |DevOps|[Ansible](https://www.ansible.com/)、[Kubernetes](https://kubernetes.io/)、[Terraform](https://www.terraform.io/)|
-|実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、アルゴリズムとデータ構造、コンピュータサイエンス|
+|実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、[アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)と[データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)、[機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)|
 
 ## 略歴
 ### 所属
@@ -78,7 +83,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他)|
+|2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他協力)|
 |2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO(ITコンサル、インフラ管理、ウェブ開発その他)|
 
 ## 職務経歴詳細
@@ -95,7 +100,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |業務|VIcodeに関する企画・設計・開発|
 |担当|ソフトウェア開発プロジェクトリーダー、システム(WebAPI・管理画面等)の企画・設計・開発・実装・運用、事業プロジェクトに関する各種業務(規約草案作成・料金プラン設計・各種企画業務その他)|
 |OS|Amazon Linux 2|
-|クラウド|AWS (EC2, S3, S3 NFS(s3fs by FUSE), RDS, ElastiCache, ELB/ALB, ACM, Auto Scaling)|
+|クラウド|AWS (EC2, S3, S3 NFS(s3fs by FUSE), RDS, ElastiCache, ELB/ALB, ACM, Auto Scaling)、AMI RAWバックアップ・リストア(VM Import/Export)|
 |言語|TypeScript(Node.js, Express.js, Pug)、JavaScript、Python(Django)、SQL、HTML5、CSS3、Bootstrap4|
 |ライブラリ|OpenGL|
 |DB|PostgreSQL9/12、Redis|
@@ -113,7 +118,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |項目|内容|
 |---:|:---|
-|業務|体力測定機器の設計・開発|
+|業務|体力測定機器の設計・開発(開発協力)|
 |担当|ソフトウェア開発|
 |OS|Arduino、Android|
 |言語|Java(Androidアプリ), C/C++(Arduino組み込みソフトウェア)|
