@@ -73,9 +73,18 @@ Ability of resolution skills. Resolve any problems or troubles around developmen
 Tech Leading skills, communication skills.
 
 ### Work Experience
+#### LeafNode
+##### Solo proprietorship
+- Dec.2020 - Present
+- Akishima, Tokyo
+- President, IT architect, software developer, network designer, director, project manager, IT technical consultant and advisor, CTO position
+##### Occupation
+- All of IT related jobs, outsourcing agreement
+
+- - -
 #### VICode Co., Ltd.
 ##### Company
-- Nov.2019 - Present
+- Nov.2019 - Nov.2020
 - Ichigaya, Tokyo
 - Web application developer, network designer, system architect, director
 ##### Occupation
