@@ -27,7 +27,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 - 学生・教職員等へのコンピュータシステムの利用等指導、プログラミングアドバイス等
 - 私立大学非常勤講師(文系学生の情報技術指導)、市民大学講座講師および講師補佐(東京都[青梅市](http://www.city.ome.tokyo.jp/))
 - 各種サーバの構築・設定・運用等に関する書籍執筆
-- プロジェクトの主導的立場として企画・立案・スケジュール管理・外注管理からシステム設計・実装など幅広い業務の遂行
+- プロジェクトの主導的ポジションとして企画・立案・スケジュール管理・外注管理からシステム設計・実装など幅広い業務の遂行
 
 ## スキル一覧
 ### 実務経験
@@ -40,7 +40,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 #### 技術経験
 |項目|内容|
 |---:|:---|
-|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
+|言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([Laravel8](http://laravel.jp/)、[CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
 |Web技術|[HTML](https://www.w3.org/TR/html/)、[CSS](https://www.w3.org/TR/CSS/)、[Bootstrap](https://getbootstrap.com/)、[jQuery](https://jquery.com/)、[Sass](https://sass-lang.com/)、[Webpack](https://webpack.js.org/)、[PM2](https://pm2.keymetrics.io/)、[ESLint](https://eslint.org/)、[npm](https://www.npmjs.com/)|
 |OS|[CentOS](https://www.centos.org/)([Linux](https://www.linuxfoundation.org/))、[FreeBSD](https://www.freebsd.org/)、[Windows](https://www.microsoft.com/ja-jp/store/b/windows) Server、[Solaris](https://www.oracle.com/jp/solaris/solaris11/index.html)、[Amazon Linux 2](https://aws.amazon.com/jp/amazon-linux-2/)、[iOS](https://www.apple.com/jp/ios/i)、[Android](https://www.android.com/)、[Arduino](https://www.arduino.cc/)([ESP32/espressif](https://github.com/espressif/arduino-esp32))|
 |サーバ|[Apache](https://httpd.apache.org/)、[nginx](http://nginx.org/)、[Node.js](https://nodejs.org/ja/)([Express4](https://expressjs.com/ja/)、[Pug](https://pugjs.org/))、[sendmail](https://www.proofpoint.com/us/open-source-email-solution)、[postfix](http://www.postfix.org/)、[OpenSSH](https://www.openssh.com/)、[BIND](https://www.isc.org/downloads/bind/)、[ISC-DHCP](https://www.isc.org/downloads/dhcp/)、[OpenLDAP](https://www.openldap.org/)、ftpサーバ他|
@@ -67,7 +67,8 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)||
+|2019年12月〜現在|企画・開発・コンサル|LeafNode, 18%Grey|個人事業主・フリーランス|
+|2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)|資金調達失敗のため事業規模縮小|
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
 |2013年9月〜2018年6月|ゲーム開発|[アプリコットン株式会社](http://apricotton.co.jp/)||
@@ -83,8 +84,9 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
+|2020年12月〜現在|IT全般・開発|各ベンチャー企業|CTO・技術顧問・ウェブ開発・その他IT以外のアドバイザリ|
 |2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他協力)|
-|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO(ITコンサル、インフラ管理、ウェブ開発その他)|
+|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサル・インフラ管理・ウェブ開発その他|
 
 ## 職務経歴詳細
 
