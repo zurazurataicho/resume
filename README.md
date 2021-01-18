@@ -60,7 +60,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |項目|内容|
 |---:|:---|
 |言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Swift](https://swift.org/)、[Kotlin](https://kotlinlang.org/)、[Dart](https://dart.dev/)、[Scala](https://www.scala-lang.org/)、[Python](https://www.python.org/)|
-|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)、[Vuetify](https://vuetifyjs.com/ja/)、[Flutter](https://flutter.dev/)|
+|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)、[Vuetify](https://vuetifyjs.com/ja/)、[Flutter](https://flutter.dev/、[Laravel8](http://laravel.jp/)|
 |DevOps|[Ansible](https://www.ansible.com/)、[Kubernetes](https://kubernetes.io/)、[Terraform](https://www.terraform.io/)|
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、[アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)と[データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)、[機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)|
 
