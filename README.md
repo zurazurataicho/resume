@@ -66,7 +66,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 ## 略歴
 ### 組織・企業
-- [経歴詳細](#regular-employment)
+- [経歴詳細](#業務内容(正規雇用))
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
@@ -83,7 +83,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |1993年4月〜1996年3月|システム開発|[第一企画設計株式会社](http://www.dik-web.co.jp/)||
 
 ### 個人・請負
-- [経歴詳細](#private-business)
+- [経歴詳細](#業務内容(個人事業主))
 
 |期間|事業|会社名|業務内容|
 |:---|:---|:-----|:---|
@@ -95,7 +95,6 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 ## 職務経歴詳細
 
 #### 業務内容(正規雇用)
-#regular-employment
 
 ### 株式会社VICode
 - 2019年11月〜2020年11月
@@ -565,7 +564,6 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 #### 業務内容(個人事業主)
-#private-business
 
 ### LeafNode
 - 2020年12月〜現在
