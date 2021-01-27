@@ -66,7 +66,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 ## 略歴
 ### 組織・企業
-- [経歴詳細](#業務内容・組織)
+- [経歴詳細](#業務内容組織)
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
@@ -83,7 +83,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |1993年4月〜1996年3月|システム開発|[第一企画設計株式会社](http://www.dik-web.co.jp/)||
 
 ### 個人・請負
-- [経歴詳細](#業務内容・個人)
+- [経歴詳細](#業務内容個人)
 
 |期間|事業|会社名|業務内容|
 |:---|:---|:-----|:---|
