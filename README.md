@@ -2,9 +2,9 @@
 You can see my resume in English [here](https://github.com/zurazurataicho/resume/blob/master/README_en.md).
 
 ## 概要
-Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ部門に入職、設計・運用に従事。オンプレミスにてゼロからのネットワーク・サーバ構築や管理ツールの開発、学内の教職員・授業用コンピュータ・ネットワークシステムの導入・リプレイスや、大学事務局の要望に応じた部署用ウェブシステムの開発など技術面のみならず、キャンパス所在地である東京都青梅市民に向けたIT講習会や、文系・芸術系学生への情報リテラシー教育なども長期に渡り経験。
-その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築、AWSでのインフラ構築、運用管理、プロダクトやAPI開発に従事。数度の転機によりウェブ(フロント・バックエンド)開発業務に従事。
-技術的興味からベンチャー企業でゼロからのシステム設計・開発・運用に従事。Node環境によるWebAPIや外注委託開発したPython実装系とのプロトコル連携なども含めたプロダクトを開発し、AWSにて本番環境までインフラ構築を手がけるのみならず、プロジェクト・スケジュール・外注管理、エンジニアリング以外の企画業務などを行う。
+Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ部門に入職、設計・運用に従事。オンプレミスにてゼロからのネットワーク・サーバ構築や管理ツールの開発、学内の教職員・授業用コンピュータ・ネットワークシステムの導入・リプレイスや、大学事務局の要望に応じた部署用ウェブシステムの開発など技術面のみならず、キャンパス所在地である東京都青梅市民に向けたIT講習会や、文系・芸術系学生への情報リテラシー教育なども長期に渡り経験。  
+その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築、AWSでのインフラ構築、運用管理、プロダクトやAPI開発に従事。数度の転機によりウェブ(フロント・バックエンド)開発業務に従事。  
+技術的興味からベンチャー企業でゼロからのシステム設計・開発・運用に従事。Node環境によるWebAPIや外注委託開発したPython実装系とのプロトコル連携なども含めたプロダクトを開発し、AWSにて本番環境までインフラ構築を手がけるのみならず、プロジェクト・スケジュール・外注管理、エンジニアリング以外の企画業務などを行う。  
 現在は、これまでの知見を活かし、フリーランスとして業務委託での開発全般業務に関わる他、複数のベンチャー企業でのウェブ開発や技術顧問、CTOポジション等も行なっている。
 
 ## コンタクト・活動
@@ -69,7 +69,7 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2019年12月〜現在|企画・開発・コンサル|LeafNode, 18%Grey|個人事業主・フリーランス|
+|2019年12月〜現在|企画・開発・コンサル・写真撮影|LeafNode, 18%Grey|個人事業主・フリーランス|
 |2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)|資金調達失敗のため事業規模縮小|
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
@@ -86,33 +86,50 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2020年12月〜現在|IT全般・開発|各ベンチャー企業|CTO・技術顧問・ウェブ開発・その他IT以外の企画参画・アドバイザ等|
+|2020年12月〜現在|IT全般・開発|各ベンチャー企業|CTO・技術顧問・ウェブ開発・その他IT以外の企画参画・アドバイザ・コンサルティング等|
 |2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他協力)|
-|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサル・インフラ管理・ウェブ開発その他|
+|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサルティング・インフラ管理・ウェブ開発その他|
 
 ## 職務経歴詳細
 
 ### LeafNode
 - 2020年12月〜現在
-- 事業内容：IT・ソフトウェア関するシステム・サービス企画、開発、運営、技術顧問、アドバイス、CTOポジション等
-- 形態：個人事業(業務委託(準委任請負)・ベンチャー企業技術サポート・開発・CTO等)
+- 事業内容：IT・ソフトウェア関するシステム・サービスの企画、開発、運営、技術顧問・アドバイス、コンサルティング、CTOポジション等
+- 形態：個人事業(業務委託・準委任請負)・ベンチャー企業技術サポート・開発支援・技術顧問・CTO・コンサルティング等)
 
 #### 業務内容
 
 ##### 2021年2月〜現在
+- ウェブシステム開発業務
 
 |項目|内容|
 |---:|:---|
-|業務|リーガル関係ウェブシステムの開発(業務委託・準委任)|
+|業務|リーガル関係ウェブシステムの開発|
 |担当|ウェブシステムの追加・改修等|
 |OS|－|
 |クラウド|－|
 |詳細|－|
+|言語|－|
 |フレームワーク|－|
 |DB|－|
-|言語|－|
 |VCS|－|
 |ポジション|－|
+
+##### 2020年2月〜現在(断続的)
+- WebAPI開発
+
+|項目|内容|
+|---:|:---|
+|業務|Laravel8によるWebAPI基本構成の設計・基礎実装|
+|担当|設計・開発全般|
+|OS|macOS、Linux|
+|クラウド|Heroku、AWS、もしくはホスティングサーバ(いずれも予定)|
+|詳細|WebAPIシステム開発(起業案件向け・汎用化のための基礎構築等)|
+|言語|PHP7|
+|フレームワーク|Laravel8|
+|DB|MySQL、SQLite3(ローカルテスト用)|
+|DevOps|Docker、Docker Compose|
+|VCS|Git(GitHub)、SourceTree|
 
 - - -
 
@@ -169,9 +186,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS7|
 |クラウド|未使用(オンプレミス)|
 |詳細|既存Webサービスのサーバ実装改修・機能拡張・追加や、新規開発を担当。ウェブフロント実装、API実装、管理画面実装など|
+|言語|PHP7、SQL、JavaScript(ES6, jQuery)、bash|
 |フレームワーク|Ethna(ベース)|
 |DB|PostgreSQL9、Redis|
-|言語|PHP7、SQL、JavaScript(ES6, jQuery)、bash|
 |VCS|Git(GitHub、SourceTree)|
 |ポジション|エンジニア(フロントエンジニア6名)|
 
@@ -208,9 +225,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS|
 |クラウド|NiftyCloud|
 |詳細|既存システムへの新規API追加実装、管理ツールの新規API対応実装|
+|言語|PHP、SQL|
 |フレームワーク|FuelPHP|
 |DB|MySQL5.6、Redis|
-|言語|PHP、SQL|
 |VCS|Subversion|
 |ポジション|エンジニア(サーバエンジニア2名)|
 
@@ -224,9 +241,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5.6|
 |クラウド|NiftyCloud|
 |詳細|既存実装改修、API改修、WebSocketによる実装、管理画面実装|
+|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |フレームワーク|Node.js|
 |DB|MariaDB、MySQL5、Redis|
-|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
 |管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |ポジション|エンジニア(チーム20名、サーバエンジニア3〜4名)|
@@ -241,9 +258,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5.6|
 |クラウド|---|
 |詳細|ミッション(目標達成系)のDB設計・実装|
+|言語|PHP、SQL|
 |フレームワーク|Flight(PHP)|
 |DB|MySQL5、Redis|
-|言語|PHP、SQL|
 |VCS|Git(GitHub、SourceTree)|
 |管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |ポジション|エンジニア(チーム40名、サーバエンジニア8名)|
@@ -258,9 +275,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5.6|
 |クラウド|NiftyCloud|
 |詳細|OAuth認証、ゲーム内コイン管理、BRIDGEログ送信を含めたBRDGE通信基盤開発|
+|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |フレームワーク|Node.js|
 |DB|MariaDB、MySQL5、Redis|
-|言語|TypeScript(JavaScript)、HTML、CSS、SQL、bash|
 |VCS|Git(GitHub、SourceTree)|
 |管理|GitHub(git-flow、Pull Request、コードレビュー)|
 |ポジション|エンジニア(チーム2名、サーバエンジニア1名)|
@@ -274,9 +291,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5.6|
 |クラウド|Amazon EC2|
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C#(Unity5一部実装)|
 |フレームワーク|Amfphp、CakePHP2、FulePHP|
 |DB|MariaDB、MySQL5、Redis、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C#(Unity5一部実装)|
 |VCS|Git(Bitbucket、SourceTree)|
 |管理|Redmine|
 |ポジション|サーバチームリーダ(チーム13名、サーバエンジニア2名)|
@@ -289,9 +306,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|自社企画による新規開発(中断)|
 |OS|CentOS 5.6|
 |詳細|DB・APIの新規設計と実装、クライアント実装|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C++(Cocos2d-x)|
 |フレームワーク|CakePHP3|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)、C++(Cocos2d-x)|
 |ポジション|エンジニア|
 
 ##### 2015年6月〜2015年12月
@@ -316,9 +333,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|既存サーバ実装の改修・機能拡張・追加|
 |OS|CentOS 5.6|
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript|
 |フレームワーク|Ethna|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript|
 |VCS|Subversion|
 |管理|Redmine、Googleスプレッドシート|
 |ポジション|エンジニア|
@@ -332,9 +349,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|既存サーバ実装の改修・機能拡張・追加|
 |OS|CentOS 5.6|
 |詳細|既存実装改修、API実装、管理画面実装、KPI分析等(SQL)、CSツール開発・改修|
+|言語|PHP、SQL|
 |フレームワーク|FuelPHP|
 |DB|MySQL5、memcached|
-|言語|PHP、SQL|
 |VCS|Git|
 |ポジション|エンジニア|
 
@@ -368,9 +385,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5|
 |クラウド|Amazon EC2|
 |詳細|既存実装改修、API実装、管理画面実装、メール一斉配信システム開発、イメージサーバ開発、KPI分析等(SQL)、CSツール開発・改修、VPNサーバ開発|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery, DataTables, jQueryUI, jstree)|
 |フレームワーク|CakePHP2|
 |DB|MySQL5、memcached|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery, DataTables, jQueryUI, jstree)|
 |ポジション|エンジニア|
 
 ##### 2013年1月〜2013年9月
@@ -382,9 +399,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5.6|
 |クラウド|Amazon EC2|
 |詳細|Facebookアプリ(フィーチャーフォンゲームのティザー)開発・公式サイトおよび関連インフラ構築|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |ポジション|エンジニア|
 
 - - -
@@ -404,9 +421,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |OS|CentOS 5|
 |クラウド|Amazon EC2|
 |詳細|ゲーム公式サイト開発、ユーザ管理DB設計、CSツール開発、メール一斉配信システム開発、ポータルサイトとのチャネリング(Realworld、aima)|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |フレームワーク|CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |ポジション|エンジニア|
 
 - - -
@@ -425,9 +442,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|FacebookアプリのYahoo!モバゲへの移植・改修|
 |OS|CentOS 5|
 |詳細|Facebookアプリの解析・移植、移植アプリの改修・機能追加|
+|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |フレームワーク|Symfony、CakePHP2|
 |DB|MySQL5|
-|言語|PHP、HTML、CSS、SQL、bash、JavaScript(jQuery)|
 |ポジション|エンジニア(契約社員)|
 
 - - -
@@ -446,9 +463,9 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |担当|システム保守・改修・管理|
 |OS|CentOS 5|
 |詳細|スマートフォン(京セラ端末用Android)OS更新システム保守、ログ解析スクリプト作成、DBシステム切り替えに伴う改修|
+|言語|Perl、PHP、bash|
 |フレームワーク|Symfony、CakePHP2|
 |DB|Oracle 11g release2、MySQL5|
-|言語|Perl、PHP、bash|
 |ポジション|エンジニア|
 
 ##### 2011年12月〜2012年1月
