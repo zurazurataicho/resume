@@ -66,7 +66,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 ## 略歴
 ### 組織・企業
-- [経歴詳細](#業務内容(正規雇用))
+- [経歴詳細](#業務内容・組織)
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
@@ -83,7 +83,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |1993年4月〜1996年3月|システム開発|[第一企画設計株式会社](http://www.dik-web.co.jp/)||
 
 ### 個人・請負
-- [経歴詳細](#業務内容(個人事業主))
+- [経歴詳細](#業務内容・個人)
 
 |期間|事業|会社名|業務内容|
 |:---|:---|:-----|:---|
@@ -92,9 +92,10 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他協力)|
 |2013年9月〜現在|IT全般|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサルティング・インフラ管理・ウェブ開発その他|
 
+- - -
 ## 職務経歴詳細
 
-#### 業務内容(正規雇用)
+#### 業務内容・組織
 
 ### 株式会社VICode
 - 2019年11月〜2020年11月
@@ -563,7 +564,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-#### 業務内容(個人事業主)
+#### 業務内容・個人
 
 ### LeafNode
 - 2020年12月〜現在
