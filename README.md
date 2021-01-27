@@ -65,11 +65,11 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、[アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)と[データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)、[機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)|
 
 ## 略歴
-### 所属
+### 組織・企業
+- [経歴詳細](#regular-employment)
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
-|2019年12月〜現在|企画・開発・コンサル・写真撮影|LeafNode, 18%Grey|個人事業主・フリーランス|
 |2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)|資金調達失敗のため事業規模縮小|
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
@@ -82,56 +82,20 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |1996年4月〜2011年7月|インフラ・教育|[明星大学](https://www.meisei-u.ac.jp/)(学校法人明星学苑)||
 |1993年4月〜1996年3月|システム開発|[第一企画設計株式会社](http://www.dik-web.co.jp/)||
 
-### その他
+### 個人・請負
+- [経歴詳細](#private-business)
 
-|期間|業務|会社名|備考|
+|期間|事業|会社名|業務内容|
 |:---|:---|:-----|:---|
-|2020年12月〜現在|IT全般・開発|各ベンチャー企業|CTO・技術顧問・ウェブ開発・その他IT以外の企画参画・アドバイザ・コンサルティング等|
+|2020年12月〜現在|IT全般|LeafNode|CTO・技術顧問・ウェブ開発・その他IT以外の企画参画・アドバイザ・コンサルティング等|
+|2020年12月〜現在|写真撮影|18%Grey|人物写真撮影、写真アート作品制作・展示事業|
 |2020年1月〜現在|システム開発|[株式会社アズランド](http://azland.co.jp/)|ソフトウェア開発主担当(設計・開発その他協力)|
-|2013年9月〜現在|IT全般・ウェブ開発|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサルティング・インフラ管理・ウェブ開発その他|
+|2013年9月〜現在|IT全般|[リゾートイン・アコースティック](https://hakuba-acoustic.com/)|CTO・技術顧問・ITコンサルティング・インフラ管理・ウェブ開発その他|
 
 ## 職務経歴詳細
 
-### LeafNode
-- 2020年12月〜現在
-- 事業内容：IT・ソフトウェア関するシステム・サービスの企画、開発、運営、技術顧問・アドバイス、コンサルティング、CTOポジション等
-- 形態：個人事業(業務委託・準委任請負)・ベンチャー企業技術サポート・開発支援・技術顧問・CTO・コンサルティング等)
-
-#### 業務内容
-
-##### 2021年2月〜現在
-- ウェブシステム開発業務
-
-|項目|内容|
-|---:|:---|
-|業務|リーガル関係ウェブシステムの開発|
-|担当|ウェブシステムの追加・改修等|
-|OS|－|
-|クラウド|－|
-|詳細|－|
-|言語|－|
-|フレームワーク|－|
-|DB|－|
-|VCS|－|
-|ポジション|－|
-
-##### 2020年2月〜現在(断続的)
-- WebAPI開発
-
-|項目|内容|
-|---:|:---|
-|業務|Laravel8によるWebAPI基本構成の設計・基礎実装|
-|担当|設計・開発全般|
-|OS|macOS、Linux|
-|クラウド|Heroku、AWS、もしくはホスティングサーバ(いずれも予定)|
-|詳細|WebAPIシステム開発(起業案件向け・汎用化のための基礎構築等)|
-|言語|PHP7|
-|フレームワーク|Laravel8|
-|DB|MySQL、SQLite3(ローカルテスト用)|
-|DevOps|Docker、Docker Compose|
-|VCS|Git(GitHub)、SourceTree|
-
-- - -
+#### 業務内容(正規雇用)
+#regular-employment
 
 ### 株式会社VICode
 - 2019年11月〜2020年11月
@@ -597,6 +561,50 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |OS|MS-DOS(PC-9801)|
 |言語|PC COBOL|
 |ポジション|エンジニア|
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+#### 業務内容(個人事業主)
+#private-business
+
+### LeafNode
+- 2020年12月〜現在
+- 事業内容：IT・ソフトウェア関するシステム・サービスの企画、開発、運営、技術顧問・アドバイス、コンサルティング、CTOポジション等
+- 形態：個人事業(業務委託・準委任請負)・ベンチャー企業技術サポート・開発支援・技術顧問・CTO・コンサルティング等)
+
+#### 業務内容(正規雇用)
+
+##### 2021年2月〜現在
+- ウェブシステム開発業務
+
+|項目|内容|
+|---:|:---|
+|業務|リーガル関係ウェブシステムの開発|
+|担当|ウェブシステムの追加・改修等|
+|OS|－|
+|クラウド|－|
+|詳細|－|
+|言語|－|
+|フレームワーク|－|
+|DB|－|
+|VCS|－|
+|ポジション|－|
+
+##### 2020年2月〜現在(断続的)
+- WebAPI開発 ([GitHubリポジトリ](https://github.com/zurazurataicho/api-blueprint-laravel8))
+
+|項目|内容|
+|---:|:---|
+|業務|Laravel8によるWebAPI基本構成の設計・基礎実装|
+|担当|設計・開発全般|
+|OS|macOS、Linux|
+|クラウド|Heroku、AWS、もしくはホスティングサーバ(いずれも予定)|
+|詳細|WebAPIシステム開発(起業案件向け・汎用化のための基礎構築等)|
+|言語|PHP7|
+|フレームワーク|Laravel8|
+|DB|MySQL、SQLite3(ローカルテスト用)|
+|DevOps|Docker、Docker Compose|
+|VCS|Git(GitHub)、SourceTree|
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
