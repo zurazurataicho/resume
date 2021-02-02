@@ -7,18 +7,6 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 　技術的興味からベンチャー企業でゼロからのシステム設計・開発・運用に従事。Node環境によるWebAPIや外注委託開発したPython実装系とのプロトコル連携なども含めたプロダクトを開発し、AWSにて本番環境までインフラ構築を手がけるのみならず、プロジェクト・スケジュール・外注管理、エンジニアリング以外の企画業務などを行う。  
 　現在は、これまでの知見を活かし、フリーランスとして業務委託での開発全般業務に関わる他、複数のベンチャー企業でのウェブ開発や技術顧問、CTOポジション等も行なっている。
 
-## コンタクト・活動
-|項目|内容|
-|---:|:---|
-|Name|EZURA, Atsushi|
-|GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
-|LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/) (English)|
-|Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
-|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
-|Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
-|Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
-|Photographer|[Atsushi Ezura](https://zura.org/)|
-
 ## 経験・分野
 - LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
 - スマートフォンアプリAPIサーバ、ブラウザゲームサーバの設計・開発(DB設計含む)
@@ -642,3 +630,15 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |:---|:-----|
 |日本語|母国語|
 |英語|読み書き、簡単な雑談程度|
+
+## コンタクト・活動
+|項目|内容|
+|---:|:---|
+|Name|EZURA, Atsushi|
+|GitHub|[zurazurataicho](https://github.com/zurazurataicho/)|
+|LinkedIn|[zurazurataicho](https://www.linkedin.com/in/zurazurataicho/) (English)|
+|Facebook|[えづらあつし](https://www.facebook.com/atsushi.ezura)|
+|Qiita|[@zurazurataicho](https://qiita.com/zurazurataicho)|
+|Twitter|[@atsushiezura](https://twitter.com/atsushiezura)|
+|Instagram|[@zurazurataicho](https://www.instagram.com/zurazurataicho/)|
+|Photographer|[Atsushi Ezura](https://zura.org/)|
