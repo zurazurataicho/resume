@@ -57,6 +57,7 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 |期間|業務|会社名|備考|
 |:---|:---|:-----|:---|
+|2021年4月〜現在|システム開発|[アライド・アーキテクツ株式会社](https://www.aainc.co.jp/)||
 |2019年11月〜2020年11月|システム開発・企画|[株式会社VICode](http://vicode.jp/)|資金調達失敗のため報酬支払困難|
 |2018年12月〜2019年10月|ウェブ開発|[株式会社エグゼック](http://i-exec.jp/)||
 |2018年7月〜2018年11月|デジタル・フォレンジック|[AOSリーガルテック株式会社](https://www.aos.com/)||
@@ -102,24 +103,6 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |DevOps|Docker、Docker Compose|
 |VCS|Git(GitHub、SourceTree)|
 |ポジション|ディレクター・ソフトウェア開発プロジェクトリーダー、ソフトウェアエンジニア、外注管理・スケジュール管理担当|
-
-- - -
-### 株式会社アズランド
-- 2020年1月〜現在
-- 事業内容：IT・IoT・電子機器のハードウェアおよびソフトウェアの開発、薬膳事業
-- 従業員数：約2名
-
-#### 業務内容
-
-|項目|内容|
-|---:|:---|
-|業務|体力測定機器の設計・開発(開発協力)|
-|担当|ソフトウェア開発|
-|OS|Arduino、Android|
-|言語|Java(Androidアプリ), C/C++(Arduino組み込みソフトウェア)|
-|システム|Android SDK, Arduino SDK, ESP32, BLE(Bluetooth Low Energy), USB, Felica/Pasori(RC-S380/P)|
-|VCS|Git(GitHub)|
-|ポジション|ソフトウェアエンジニア|
 
 - - -
 ### 株式会社エグゼック
@@ -559,21 +542,21 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 #### 業務内容(正規雇用)
 
-##### 2021年2月〜現在
+##### 2021年2月〜2021年3月
 - ウェブシステム開発業務
 
 |項目|内容|
 |---:|:---|
-|業務|リーガル関係ウェブシステムの開発|
+|業務|リーガル向けウェブシステムの開発|
 |担当|ウェブシステムの追加・改修等|
-|OS|－|
-|クラウド|－|
-|詳細|－|
-|言語|－|
-|フレームワーク|－|
-|DB|－|
-|VCS|－|
-|ポジション|－|
+|OS|Cloud Functions(サーバレス)|
+|クラウド|GCP(Cloud Functions, Firestore)|
+|詳細|契約書管理システムの開発・改修等|
+|言語|TypeScript|
+|フレームワーク|Node.js|
+|DB|Firestore|
+|VCS|Git(GitHub、SourceTree)|
+|ポジション|エンジニア|
 
 ##### 2020年2月〜現在(断続的)
 - WebAPI開発 ([GitHubリポジトリ](https://github.com/zurazurataicho/api-blueprint-laravel8))
@@ -590,6 +573,54 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |DB|MySQL、SQLite3(ローカルテスト用)|
 |DevOps|Docker、Docker Compose|
 |VCS|Git(GitHub)、SourceTree|
+
+- - -
+### 18%Grey
+- 2019年12月〜現在
+- 事業内容：写真撮影、写真アート作品製作・展示事業、執筆活動等
+- 形態：個人事業(請負)
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|主に人物を対象とした写真撮影や写真撮影・展示等に関する業務全般|
+|使用機材|Nikon D7100|
+|ソフトウェア|Photoshop, Lightroom Classic|
+|ポジション|カメラマン、レタッチャー、プロデューサー|
+|ポートフォリオ(作例サイト)|[Atsushi Ezura Photography](https://zura.org/)|
+
+- - -
+### 株式会社アズランド
+- 2020年1月〜現在
+- 事業内容：IT・IoT・電子機器のハードウェアおよびソフトウェアの開発、薬膳事業
+- 従業員数：約2名
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|体力測定機器の設計・開発(開発協力)|
+|担当|ソフトウェア開発|
+|OS|Arduino、Android|
+|言語|Java(Androidアプリ), C/C++(Arduino組み込みソフトウェア)|
+|システム|Android SDK, Arduino SDK, ESP32, BLE(Bluetooth Low Energy), USB, Felica/Pasori(RC-S380/P)|
+|VCS|Git(GitHub)|
+|ポジション|ソフトウェアエンジニア|
+
+- - -
+### リゾートイン・アコースティック
+- 2013年9月〜現在
+- 事業内容：リゾートペンション
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|宿泊業務ウェブサイト開発・更新、館内インフラ・IT機器調達・設置・管理|
+|担当|ソフトウェア開発、システム管理、ITコンサルティング、技術顧問(CTO)|
+|OS|FreeBSD|
+|言語|PHP(CakePHP)|
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
