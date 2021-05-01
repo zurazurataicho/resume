@@ -82,6 +82,19 @@ Tech Leading skills, communication skills.
 - All of IT related jobs, outsourcing agreement
 
 - - -
+#### Allied Architects, Inc.
+##### Company
+- Apr.2021 - present
+- Ebisu, Tokyo
+- Tech lead, Web application developer, network & system architect
+##### Occupation
+- Lead team by software technologies, Develop and maintain web applications.
+- [Languages] PHP(Laravel)
+- [Databases] MySQL5.7, Redis
+- [Techs] Amazon EC2, AWS S3, AWS RDS, Docker, Docker Composer, MVC
+- [Tools] vim, GitLab, SourceTree
+
+- - -
 #### VICode Co., Ltd.
 ##### Company
 - Nov.2019 - Nov.2020
@@ -89,7 +102,7 @@ Tech Leading skills, communication skills.
 - Web application developer, network designer, system architect, director
 ##### Occupation
 - Design and develop WebAPI and some web applications (i.e. administrator console web system)
-- [Langs] Node.js(with Express.js, Pug), TypeScript, JavaScript, Python(Django), SQL
+- [Languages] Node.js(with Express.js, Pug), TypeScript, JavaScript, Python(Django), SQL
 - [Databases] PostgreSQL9/12, Redis
 - [Techs] Amazon EC2, AWS S3, AWS RDS, Docker, Docker Composer, MVC
 - [Tools] vim, GitHub, SourceTree
@@ -102,7 +115,7 @@ Tech Leading skills, communication skills.
 - Android application and Arduino embedded software programmer
 ##### Occupation
 - Develop health measurement software
-- [Langs] Java(Android), C/C++(Arduiono, ESP32)
+- [Languages] Java(Android), C/C++(Arduino, ESP32)
 - [Techs] Android SDK, Arduino SDK, USB, BLE, Felica/Pasori(RC-S380/P)
 - [Tools] vim, GitHub, Android Studio, Arduino Studio
 
@@ -114,7 +127,7 @@ Tech Leading skills, communication skills.
 - Web application developer, network designer, system architect
 ##### Occupation
 - Develop and maintain web applications.
-- [Langs] PHP7, JavaScript(ES6, jQuery), SQL
+- [Languages] PHP7, JavaScript(ES6, jQuery), SQL
 - [Databases] PostgreSQL, Redis
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request
 - [Tools] Eclipse, vim
@@ -145,7 +158,7 @@ Tech Leading skills, communication skills.
 - Maintain KPI informations with SQL and scripting.
 - This company is run by my friend since September, 2013. I have helped him to success the company.
 - Learn management of engineers, DevOps, design patterns, behave as a better programmer, TDD.
-- [Langs] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL
+- [Languages] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL
 - [Databases] MySQL(MariaDB), Redis, memcache
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible), CI(Jenkins), CentOS, Amazon EC2, Cocos2d-x/js, Unity
 - [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman, PHPUnit
@@ -242,4 +255,3 @@ Tech Leading skills, communication skills.
 ### References
 - LinkedIn: https://www.linkedin.com/in/zurazurataicho
 - GitHub:  https://github.com/zurazurataicho
-

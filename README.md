@@ -84,6 +84,24 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 
 #### 業務内容・組織
 
+### アライドアーキテクツ株式会社
+- 2021年4月〜現在
+- 事業内容：SNSマーケティング等に関するシステム・サービス企画、開発、運営
+
+#### 業務内容
+
+|項目|内容|
+|---:|:---|
+|業務|システム設計・開発|
+|OS|Amazon Linux 2|
+|クラウド|AWS|
+|言語|PHP、SQL|
+|DB|MySQL5.7、Redis|
+|DevOps|Docker、Docker Compose|
+|VCS|Git(GitLab、SourceTree)|
+|ポジション|テックリード、ソフトウェアエンジニア|
+
+- - -
 ### 株式会社VICode
 - 2019年11月〜2020年11月
 - 事業内容：IT・画像認識等に関するシステム・サービス企画、開発、運営
