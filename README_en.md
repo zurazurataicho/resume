@@ -42,7 +42,7 @@ Learn computer science and programming, study of lexical and syntactic parsers.
 |Infra.|[Cisoc IOS](https://www.cisco.com/c/en/us/products/ios-nx-os-software/ios-software-releases-listing.html)|
 |DevOps|[Ansible](https://www.ansible.com/), [Docker](https://www.docker.com/), [Docker Compose](https://docs.docker.com/compose/), [Jenkins](https://jenkins.io/), [Vagrant](https://www.vagrantup.com/), [VirtualBox](https://www.virtualbox.org/) (only using, not configurations)|
 |Cloud|[Amazon EC2](https://aws.amazon.com/)、[Amazon S3](https://aws.amazon.com/s3/)、[Amazon RDS](https://aws.amazon.com/rds/)、[Elastic Load Balancing](https://aws.amazon.com/elasticloadbalancing/)(ALB, multi-domain configuration)、[AWS Certificate Manager](https://aws.amazon.com/certificate-manager/)(ACM, wildcard configuration)、[AWS Auto Scaling](https://aws.amazon.com/autoscaling/)、[Amazon ElastiCache](https://aws.amazon.com/elasticache/)、[AWS Route53](https://aws.amazon.com/route53/)|
-|Tools|[vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
+|Tools|[Vim](https://www.vim.org/), [Eclipse](https://www.eclipse.org/), [WebStorm](https://www.jetbrains.com/webstorm/), [make](https://www.gnu.org/software/make/), [Gradle](https://gradle.org/), [Git](https://git-scm.com/)/[GitHub](https://github.com/)/[BitBucket](https://bitbucket.org/), [git-flow](https://nvie.com/posts/a-successful-git-branching-model/), [Postman](https://www.getpostman.com/)|
 |Techs|[OOP](https://en.wikipedia.org/wiki/Object-oriented_programming), [Design pattern](https://en.wikipedia.org/wiki/Software_design_pattern), [Readable code](https://www.amazon.com/dp/0596802293/), [Code review](https://en.wikipedia.org/wiki/Code_review), [Pull request](https://help.github.com/articles/about-pull-requests/)|
 |Operation|Server/Infrastructure construction/operation/management|
 |Development|DB design, Web applications, CUI programming, game management systems, blowser game development/expansion/modification, smartphone game development (UI; Cocos2d-js)|
@@ -73,7 +73,7 @@ Ability of resolution skills. Resolve any problems or troubles around developmen
 Tech Leading skills, communication skills.
 
 ### Work Experience
-#### LeafNode
+#### leafNode
 ##### Solo proprietorship
 - Dec.2020 - Present
 - Akishima, Tokyo
@@ -91,8 +91,8 @@ Tech Leading skills, communication skills.
 - Lead team by software technologies, Develop and maintain web applications.
 - [Languages] PHP(Laravel)
 - [Databases] MySQL5.7, Redis
-- [Techs] Amazon EC2, AWS S3, AWS RDS, Docker, Docker Composer, MVC
-- [Tools] vim, GitLab, SourceTree
+- [Techs] Amazon EC2, AWS S3, AWS RDS(Amazon Aurora), Docker, Docker Composer, MVC
+- [Tools] Vim, GitLab, SourceTree
 
 - - -
 #### VICode Co., Ltd.
@@ -105,7 +105,7 @@ Tech Leading skills, communication skills.
 - [Languages] Node.js(with Express.js, Pug), TypeScript, JavaScript, Python(Django), SQL
 - [Databases] PostgreSQL9/12, Redis
 - [Techs] Amazon EC2, AWS S3, AWS RDS, Docker, Docker Composer, MVC
-- [Tools] vim, GitHub, SourceTree
+- [Tools] Vim, GitHub, SourceTree
 
 - - -
 #### Azland Co., Ltd.
@@ -117,7 +117,7 @@ Tech Leading skills, communication skills.
 - Develop health measurement software
 - [Languages] Java(Android), C/C++(Arduino, ESP32)
 - [Techs] Android SDK, Arduino SDK, USB, BLE, Felica/Pasori(RC-S380/P)
-- [Tools] vim, GitHub, Android Studio, Arduino Studio
+- [Tools] Vim, GitHub, Android Studio, Arduino Studio
 
 - - -
 #### EXEC Co., Ltd.
@@ -130,7 +130,7 @@ Tech Leading skills, communication skills.
 - [Languages] PHP7, JavaScript(ES6, jQuery), SQL
 - [Databases] PostgreSQL, Redis
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request
-- [Tools] Eclipse, vim
+- [Tools] Eclipse, Vim
 
 - - -
 #### AOS Legal Technologies, Inc.
@@ -161,7 +161,7 @@ Tech Leading skills, communication skills.
 - [Languages] C/C++, C#, PHP5/7(CakePHP3, FuelPHP, Ethna, Amfphp, Flight), TypeScript, JavaScript, SQL
 - [Databases] MySQL(MariaDB), Redis, memcache
 - [Techs] OOPS, MVC, Design pattern, Code review, Pull request, DevOps(Docker, Vagrant, Ansible), CI(Jenkins), CentOS, Amazon EC2, Cocos2d-x/js, Unity
-- [Tools] Eclipse, WebStorm, vim, Gradle, make, Git/GitHub/BitBucket, Postman, PHPUnit
+- [Tools] Eclipse, WebStorm, Vim, Gradle, make, Git/GitHub/BitBucket, Postman, PHPUnit
 
 - - -
 #### Reliance Big Entertainment Japan Co, Ltd.
