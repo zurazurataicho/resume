@@ -2,10 +2,10 @@
 You can see my resume in English [here](https://github.com/zurazurataicho/resume/blob/master/README_en.md).
 
 ## 概要
-　Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ部門に入職、設計・運用に従事。オンプレミスにてゼロからのネットワーク・サーバ構築や管理ツールの開発、学内の教職員・授業用コンピュータ・ネットワークシステムの導入・リプレイスや、大学事務局の要望に応じた部署用ウェブシステムの開発など技術面のみならず、キャンパス所在地である東京都青梅市民に向けたIT講習会や、文系・芸術系学生への情報リテラシー教育なども長期に渡り経験。
-　その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築、AWSでのインフラ構築、運用管理、プロダクトやAPI開発に従事。数度の転機によりウェブ(フロント・バックエンド)開発業務に従事。
-　技術的興味からベンチャー企業でゼロからのシステム設計・開発・運用に従事。Node環境によるWebAPIや外注委託開発したPython実装系とのプロトコル連携なども含めたプロダクトを開発し、AWSにて本番環境までインフラ構築を手がけるのみならず、プロジェクト・スケジュール・外注管理、エンジニアリング以外の企画業務などを行う。
-　現在は、これまでの知見を活かし、フリーランスとして業務委託での開発全般業務に関わる他、複数のベンチャー企業でのウェブ開発や技術顧問、CTOポジション等も行なっている。
+Cやアセンブラで組込系ソフトウェアやモニタリングソフトの開発経験を経て、私立大学の情報インフラ部門に入職、設計・運用に従事。オンプレミスにてゼロからのネットワーク・サーバ構築や管理ツールの開発、学内の教職員・授業用コンピュータ・ネットワークシステムの導入・リプレイスや、大学事務局の要望に応じた部署用ウェブシステムの開発など技術面のみならず、キャンパス所在地である東京都青梅市民に向けたIT講習会や、文系・芸術系学生への情報リテラシー教育なども長期に渡り経験。
+その後ゲーム開発会社にてブラウザゲームのデータセンターでのインフラ構築、AWSでのインフラ構築、運用管理、プロダクトやAPI開発に従事。数度の転機によりウェブ(フロント・バックエンド)開発業務に従事。
+技術的興味からベンチャー企業でゼロからのシステム設計・開発・運用に従事。Node環境によるWebAPIや外注委託開発したPython実装系とのプロトコル連携なども含めたプロダクトを開発し、AWSにて本番環境までインフラ構築を手がけるのみならず、プロジェクト・スケジュール・外注管理、エンジニアリング以外の企画業務などを経験。
+現在はWebマーケティング系の上場企業で、複数プロダクトの開発・保守をAI駆動で実践している。
 
 ## 経験・分野
 - LAMP環境(クラウド・オンプレミス)でのウェブシステム開発(要件定義～設計～開発～テスト～導入)
@@ -41,16 +41,6 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |開発|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育|[情報リテラシー教育](https://www.meisei-u.ac.jp/academics/common/)(私立大学非常勤講師)、学生IT指導|
-
-### 独学・個人研究
-- IT関連スキルは基本的に独学にて習得し、いつでも現場・実践での活用・応用ができるよう心がけている。
-
-|項目|内容|
-|---:|:---|
-|言語|[Go](https://golang.org/)、[Rust](https://www.rust-lang.org/)、[Swift](https://swift.org/)、[Kotlin](https://kotlinlang.org/)、[Dart](https://dart.dev/)、[Scala](https://www.scala-lang.org/)、[Python](https://www.python.org/)|
-|フレームワーク|[Vue.js](https://jp.vuejs.org/)、[Vuex](https://vuex.vuejs.org/ja/)、[Vuetify](https://vuetifyjs.com/ja/)、[Flutter](https://flutter.dev/)、[Laravel8](http://laravel.jp/)|
-|DevOps|[Ansible](https://www.ansible.com/)、[Kubernetes](https://kubernetes.io/)、[Terraform](https://www.terraform.io/)|
-|実装技術|[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[テスト駆動開発(TDD)](https://www.amazon.co.jp/dp/4274217884/)、[ドメイン駆動開発(DDD)](https://www.amazon.co.jp/dp/4798121967/)、[継続的デリバリー](https://www.amazon.co.jp/dp/4048930583/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)、[Clean Coder](https://www.amazon.co.jp/dp/4048930648/)、[Clean Architecture](https://www.amazon.co.jp/dp/4048930656/)、[アルゴリズム](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0)と[データ構造](https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E6%A7%8B%E9%80%A0)、[コンピュータサイエンス](https://ja.wikipedia.org/wiki/%E8%A8%88%E7%AE%97%E6%A9%9F%E7%A7%91%E5%AD%A6)、[機械学習](https://ja.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92)|
 
 ## 略歴
 ### 組織・企業
@@ -94,12 +84,12 @@ You can see my resume in English [here](https://github.com/zurazurataicho/resume
 |---:|:---|
 |業務|システム設計・開発|
 |OS|Amazon Linux 2|
-|クラウド|AWS|
-|言語|PHP(Laravel)、SQL|
-|DB|MySQL5.7 (Amazon Aurora)、Redis|
-|DevOps|Docker、Docker Compose|
-|VCS|Git(GitLab、SourceTree)|
-|ポジション|テックリード、ソフトウェアエンジニア|
+|クラウド|AWS(EC2, S3, ALB, ElastiCache, Aurora/RDS, Secrets Manager, Lambda, EventBridge...etc)|
+|言語|PHP(Laravel)、SQL、TypeScript/JavaScript、Vue|
+|DB|MySQL8 (Amazon Aurora)、Redis (Amazon ElastiCache)|
+|DevOps|Docker、Docker Compose、Amazon ECS|
+|VCS|Git(GitHug、SourceTree)|
+|ポジション|テックリード、バックエンドチームリーダー、フルスタックエンジニア(フロント・バック・DB・インフラ・社内カスタマサポートとの技術対応…etc)|
 
 - - -
 ### 株式会社VICode
