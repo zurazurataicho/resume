@@ -18,16 +18,20 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 - 各種サーバの構築・設定・運用等に関する書籍執筆
 - プロジェクトの主導的ポジションとして企画・立案・スケジュール管理・外注管理からシステム設計・実装など幅広い業務の遂行
 - ベンチャー企業のウェブ開発・技術顧問や、IT以外での企画・戦略等の立案支援やアドバイスなど、サービス全般にわたる幅広い内容にコミット
+- 車内に新規発足したバックエンド技術チームのリーダーを担当し、2〜3名のメンバーと共にプロダクトやインフラの改善等にコミット
+- AI(Claude)を用いたプロダクト開発・改善により、1人開発・1人PMでの2名体制チームでの運用を行う
 
 ## スキル一覧
 ### 実務経験
 #### マネジメント経験
+
 |項目|内容|
 |---:|:---|
-|マネジメント|学内SE主任、プロジェクト主導・管理、外注管理(開発スケジュール・技術対応等)|
+|マネジメント|技術リーダーシップ、学内SE主任、プロジェクト主導・管理、外注管理(開発スケジュール・技術対応等)|
 |企画・経営|開発ディレクター、事業内容企画・立案・サービス戦略、ITコンサルティング|
 
 #### 技術経験
+
 |項目|内容|
 |---:|:---|
 |言語|アセンブラ([8086](https://ja.wikipedia.org/wiki/Intel_8086)/[6309](https://ja.wikipedia.org/wiki/MC6809)/[68000](https://ja.wikipedia.org/wiki/MC68000))、[C](http://www.open-std.org/jtc1/sc22/wg14/)、[C++](https://isocpp.org/)、[Java](https://java.com/ja/)、[PHP](http://php.net/)([Laravel8](http://laravel.jp/)、[CakePHP](https://cakephp.org/jp)、[FuelPHP](https://fuelphp.com/)等)、[Perl5](https://www.perl.org/)、[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)、[TypeScript](http://www.typescriptlang.org/)、[QuickBASIC](https://ja.wikipedia.org/wiki/QuickBASIC)、[N88-BASIC](https://ja.wikipedia.org/wiki/N88-BASIC)、[SQL](https://ja.wikipedia.org/wiki/SQL)、シェルスクリプト([sh](https://ja.wikipedia.org/wiki/Bourne_Shell)/[bash](https://www.gnu.org/software/bash/)/[csh](http://bxr.su/NetBSD/bin/csh/)/[tcsh](http://www.tcsh.org/))、[TeX](https://tug.org/)/[LaTeX](https://www.latex-project.org/)|
@@ -41,6 +45,27 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 |実装技術|[オブジェクト指向プログラミング](https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)、[デザインパターン](https://www.amazon.co.jp/dp/4797311126/)、[リーダブルコード](https://www.amazon.co.jp/dp/4873115655/)、[コードレビュー](https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%83%AC%E3%83%93%E3%83%A5%E3%83%BC)、[Pull request](https://help.github.com/articles/about-pull-requests/)、[ベタープログラマ](https://www.amazon.co.jp/dp/4873118204/)、[Clean Code](https://www.amazon.co.jp/dp/4048930591/)|
 |開発|DB設計、Webアプリケーション、CUI系プログラム、ゲーム管理システム、ブラウザゲーム開発・機能追加・改修、スマホゲームUI開発([Cocos2d-js](http://www.cocos2d-x.org/))|
 |教育|[情報リテラシー教育](https://www.meisei-u.ac.jp/academics/common/)(私立大学非常勤講師)、学生IT指導|
+
+### その他経験
+#### 講師
+
+|期間|内容|
+|:---|:---|
+|2005〜2009年|文系・芸術系学生へのIT基礎講義(講義名「[情報リテラシーa・b](https://www.meisei-u.ac.jp/academics/common/)」)の非常勤講師(兼務)|
+|2006〜2008年|[CCNA](https://www.cisco.com/c/ja_jp/training-events/training-certifications/certifications/associate/ccna-routing-switching.html)取得講座講師(学生向け)|
+|1996〜2000年|東京都青梅市主催の市民講座にてパソコン・ネットワーク講座の講師・授業サポート|
+|1996〜1997年|[明星大学通信教育部](https://www.meisei-u.ac.jp/dce/)夏期スクーリングにおけるオフィスソフト等の講師・授業サポート|
+
+#### 執筆
+
+|初版|タイトル|ISBN|
+|:---|:-------|:---|
+|2003年12月|「[改訂版sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-672|
+|2003年3月|「[DHCP－ホスト設定サーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998613/)」|ISBN4-924998-613|
+|2001年9月|「[Sylpheed快適操作ガイド](https://www.amazon.co.jp/dp/4924998524/)」|ISBN4-924998-524|
+|2001年2月|「[sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-435|
+|2000年9月|「パソコンリテラシ2000年9月号」[社団法人パーソナルコンピュータユーザ利用技術協会](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B6%E5%88%A9%E7%94%A8%E6%8A%80%E8%A1%93%E5%8D%94%E4%BC%9A)||
+|2000年4月|「[ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95](https://www.amazon.co.jp/dp/4924998346/)」|ISBN4-924998-346|
 
 ## 略歴
 ### 組織・企業
@@ -633,27 +658,6 @@ Cやアセンブラで組込系ソフトウェアやモニタリングソフト�
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 ## その他
-### 経験等
-#### 講師
-
-|期間|内容|
-|:---|:---|
-|2005〜2009年|文系・芸術系学生へのIT基礎講義(講義名「[情報リテラシーa・b](https://www.meisei-u.ac.jp/academics/common/)」)の非常勤講師(兼務)|
-|2006〜2008年|[CCNA](https://www.cisco.com/c/ja_jp/training-events/training-certifications/certifications/associate/ccna-routing-switching.html)取得講座講師(学生向け)|
-|1996〜2000年|東京都青梅市主催の市民講座にてパソコン・ネットワーク講座の講師・授業サポート|
-|1996〜1997年|[明星大学通信教育部](https://www.meisei-u.ac.jp/dce/)夏期スクーリングにおけるオフィスソフト等の講師・授業サポート|
-
-#### 執筆
-
-|初版|タイトル|ISBN|
-|:---|:-------|:---|
-|2003年12月|「[改訂版sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-672|
-|2003年3月|「[DHCP－ホスト設定サーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998613/)」|ISBN4-924998-613|
-|2001年9月|「[Sylpheed快適操作ガイド](https://www.amazon.co.jp/dp/4924998524/)」|ISBN4-924998-524|
-|2001年2月|「[sendmail－メールサーバの設定・運用・管理](https://www.amazon.co.jp/dp/4924998672/)」|ISBN4-924998-435|
-|2000年9月|「パソコンリテラシ2000年9月号」[社団法人パーソナルコンピュータユーザ利用技術協会](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%BD%E3%83%8A%E3%83%AB%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%A6%E3%83%BC%E3%82%B6%E5%88%A9%E7%94%A8%E6%8A%80%E8%A1%93%E5%8D%94%E4%BC%9A)||
-|2000年4月|「[ウィンドウマネージャ徹底解説 fvwm -fvwm2/fvwm95](https://www.amazon.co.jp/dp/4924998346/)」|ISBN4-924998-346|
-
 #### 資格等
 
 |取得年月|内容|成績|
